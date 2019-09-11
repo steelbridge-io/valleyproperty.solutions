@@ -1,0 +1,5 @@
+# Project dependencies
+yarn-error.log
+package-lock.json
+# Build directory
+.DS_Store
