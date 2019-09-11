@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c13ce4a-c6cb-4fa1-a481-738f57e43c55" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/pic01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/pic01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/pic02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/pic02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +32,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -55,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568173120022</updated>
-      <workItem from="1568173122475" duration="467000" />
+      <workItem from="1568173122475" duration="2507000" />
     </task>
     <task id="LOCAL-00001" summary="First commit from from new machine">
       <created>1568173295476</created>
@@ -78,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568173352875</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New banner image">
+      <created>1568174359898</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568174359898</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +112,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First commit from from new machine" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit from from new machine" />
+    <MESSAGE value="New banner image" />
+    <option name="LAST_COMMIT_MESSAGE" value="New banner image" />
   </component>
 </project>
