@@ -2,10 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c13ce4a-c6cb-4fa1-a481-738f57e43c55" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app-df569ed7c20216267a9e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app-df569ed7c20216267a9e.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/commons-4814350f27da9600c1ea.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/commons-4814350f27da9600c1ea.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/commons.cf9d84c47cd51c316d9c.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-index-js-2b8781557f8aec3ccc93.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-index-js-2b8781557f8aec3ccc93.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/banner-bed267d9aa1eb8c4f2df104826290ac4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/pic01-8aafb2344c50eaf893f1e35919d46bd4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/pic02-c987aa726f299d9263ca1283a84ee67a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/webpack-runtime-f9217b922b09ea3ae8d5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/webpack-runtime-f9217b922b09ea3ae8d5.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/pic01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/pic01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/pic02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/pic02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/chunk-map.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/chunk-map.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/elements/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/elements/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/generic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/generic/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/landing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/landing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/offline-plugin-app-shell-fallback/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/offline-plugin-app-shell-fallback/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/404.html/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/404.html/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/404/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/404/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/dev-404-page/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/dev-404-page/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/elements/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/elements/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/generic/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/generic/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/index/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/index/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/landing/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/landing/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/offline-plugin-app-shell-fallback/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/offline-plugin-app-shell-fallback/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/sw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack.stats.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/webpack.stats.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/pic03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/pic03.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +61,12 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -39,6 +75,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -62,7 +99,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568173120022</updated>
-      <workItem from="1568173122475" duration="2507000" />
+      <workItem from="1568173122475" duration="2562000" />
+      <workItem from="1568259036282" duration="746000" />
+      <workItem from="1568260276174" duration="812000" />
     </task>
     <task id="LOCAL-00001" summary="First commit from from new machine">
       <created>1568173295476</created>
@@ -92,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568174359898</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Progress. Added images.">
+      <created>1568178169207</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568178169207</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,7 +149,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -113,6 +161,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First commit from from new machine" />
     <MESSAGE value="New banner image" />
-    <option name="LAST_COMMIT_MESSAGE" value="New banner image" />
+    <MESSAGE value="Progress. Added images." />
+    <option name="LAST_COMMIT_MESSAGE" value="Progress. Added images." />
   </component>
 </project>

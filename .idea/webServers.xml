@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a3d810ae-13f5-4995-8951-81215467196c" name="valleyproperty.solutions" url="http://178.128.69.182">
+        <fileTransfer host="178.128.69.182" port="122" privateKey="$USER_HOME$/.ssh/parsons-centos_rsa" rootFolder="/home/valleyproperty/public_html" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="122" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

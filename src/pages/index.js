@@ -31,22 +31,22 @@ class HomeIndex extends React.Component {
                     <section id="one" className="tiles">
                         <article style={{backgroundImage: `url(${pic01})`}}>
                             <header className="major">
-                                <h3>Property Buyers</h3>
-                                <p>Home Marketing</p>
+                                <h3>We Find Property Buyers</h3>
+                                <p>Marketing Your Home</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
-                                <h3>Home Renovation</h3>
+                                <h3>Are You Interested In Home Renovation?</h3>
                                 <p>Do You Really Have To Repair Or Remodel Your Home To Sell It?</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
-                                <h3>Magna</h3>
-                                <p>Lorem etiam nullam</p>
+                                <h3>Contact Us</h3>
+                                <p>This is the first step. Let us put you in touch with a buyer.</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
