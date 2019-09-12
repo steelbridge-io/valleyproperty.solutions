@@ -17,7 +17,7 @@ class HomeIndex extends React.Component {
         return (
             <Layout>
                 <Helmet
-                    title="Gatsby Starter - Forty"
+                    title="Valley Property Solutions"
                     meta={[
                         { name: 'description', content: 'Sample' },
                         { name: 'keywords', content: 'sample, something' },
@@ -52,22 +52,22 @@ class HomeIndex extends React.Component {
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
-                                <h3>Ipsum</h3>
-                                <p>Nisl sed aliquam</p>
+                                <h3>First Step. Start Here.</h3>
+                                <p>Start here. Let's begin.</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
-                                <h3>Consequat</h3>
-                                <p>Ipsum dolor sit amet</p>
+                                <h3>Meet The Team</h3>
+                                <p>Find out about who we are.</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
-                                <h3>Etiam</h3>
-                                <p>Feugiat amet tempus</p>
+                                <h3>About Valley Property Solutions</h3>
+                                <p>Our philosophy. Our mission</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
@@ -75,11 +75,11 @@ class HomeIndex extends React.Component {
                     <section id="two">
                         <div className="inner">
                             <header className="major">
-                                <h2>Massa libero</h2>
+                                <h2>See Our Current Projects</h2>
                             </header>
                             <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
                             <ul className="actions">
-                                <li><Link to="/landing" className="button next">Get Started</Link></li>
+                                <li><Link to="/landing" className="button next">Check Out What's Happening</Link></li>
                             </ul>
                         </div>
                     </section>
