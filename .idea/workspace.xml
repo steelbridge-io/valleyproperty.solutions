@@ -2,21 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c13ce4a-c6cb-4fa1-a481-738f57e43c55" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/commons-2f71e07f809009c61761.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/commons-2f71e07f809009c61761.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-elements-js-2c78d0ace9ae87fa7a6f.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-elements-js-2c78d0ace9ae87fa7a6f.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-generic-js-a026d7a72cbb7e083521.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-generic-js-a026d7a72cbb7e083521.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-index-js-7633c6f57c02538818a2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-index-js-7633c6f57c02538818a2.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-landing-js-e7c5065724d48413f1b6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-landing-js-e7c5065724d48413f1b6.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/pic03-35674ce47fc278b70cc2b16064eba5bc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/pic04-48628959f34765762acd878afcf52f19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/pic05-37d2000520f3e419a8d0d5045fd5d30e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/pic06-af1e83732d0fc2dc9bc92b169c7bac07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/pic08-da60d9d74f1b34ce86688e11ea02ced6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/pic09-17a08b876777d25707e0b89b0390785e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/pic10-55a72125875cc78ec1d6d5621c451518.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/pic11-baca1cd539de808e76a99db91fb67d45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/webpack-runtime-5cf3c2b06a0f74797b82.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/webpack-runtime-5cf3c2b06a0f74797b82.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/pic04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/pic04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/pic05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/pic05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/pic06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/pic06.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/pic08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/pic08.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/pic09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/pic09.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/pic10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/pic10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/pic11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/pic11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BannerLanding.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BannerLanding.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/generic.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/generic.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/landing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/chunk-map.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/chunk-map.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/elements/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/elements/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/generic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/generic/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/landing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/landing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/offline-plugin-app-shell-fallback/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/offline-plugin-app-shell-fallback/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/404.html/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/404.html/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/404/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/404/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/elements/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/elements/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/generic/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/generic/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/index/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/index/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/landing/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/landing/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/offline-plugin-app-shell-fallback/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/offline-plugin-app-shell-fallback/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/sw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack.stats.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/webpack.stats.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/website-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/website-icon.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +107,7 @@
       <updated>1568173120022</updated>
       <workItem from="1568173122475" duration="2562000" />
       <workItem from="1568259036282" duration="746000" />
-      <workItem from="1568260276174" duration="5487000" />
+      <workItem from="1568260276174" duration="6156000" />
     </task>
     <task id="LOCAL-00001" summary="First commit from from new machine">
       <created>1568173295476</created>
@@ -124,7 +151,28 @@
       <option name="project" value="LOCAL" />
       <updated>1568261280195</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Theme updates. In progress. Added images.">
+      <created>1568267390490</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1568267390490</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added files">
+      <created>1568267428464</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568267428464</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added files">
+      <created>1568267448594</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568267448594</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +197,8 @@
     <MESSAGE value="New banner image" />
     <MESSAGE value="Progress. Added images." />
     <MESSAGE value="Updated Contact us and image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Contact us and image" />
+    <MESSAGE value="Theme updates. In progress. Added images." />
+    <MESSAGE value="Added files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added files" />
   </component>
 </project>
