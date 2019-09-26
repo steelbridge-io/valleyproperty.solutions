@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c13ce4a-c6cb-4fa1-a481-738f57e43c55" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/layout/_banner.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/layout/_banner.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Banner.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Banner.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +79,7 @@
       <workItem from="1568603845842" duration="4000" />
       <workItem from="1569512855407" duration="644000" />
       <workItem from="1569513721585" duration="4037000" />
-      <workItem from="1569521419377" duration="528000" />
+      <workItem from="1569521419377" duration="990000" />
     </task>
     <task id="LOCAL-00001" summary="First commit from from new machine">
       <created>1568173295476</created>
@@ -156,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569521977848</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Updated scss &gt;&gt; closed space between lines">
+      <created>1569522046535</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1569522046535</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,7 +193,8 @@
     <MESSAGE value="Theme updates. In progress. Added images." />
     <MESSAGE value="Added files" />
     <MESSAGE value="Updated scss &gt;&gt; banner :after color" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated scss &gt;&gt; banner :after color" />
+    <MESSAGE value="Updated scss &gt;&gt; closed space between lines" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated scss &gt;&gt; closed space between lines" />
   </component>
   <component name="WindowStateProjectService">
     <state x="538" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1569513124281" />
