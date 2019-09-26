@@ -30,11 +30,13 @@
 
 // Palette.
 	$palette: (
+		dark-txt:			#222326,
 		dark:				#000000,
 		bg:					#242943,
-		bg-alt:				#2a2f4a,
+		bg-alt:				#2a2f4a, /*Drk Blue*/
 		fg:					#ffffff,
 		fg-bold:			#ffffff,
+		bg-wht:				#F2F2F2,
 		fg-light:			rgba(244,244,255,0.2),
 		border:				rgba(212,212,255,0.1),
 		border-bg:			rgba(212,212,255,0.035),

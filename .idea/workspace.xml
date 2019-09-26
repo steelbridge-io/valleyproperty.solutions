@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8c13ce4a-c6cb-4fa1-a481-738f57e43c55" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/components/_tiles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/components/_tiles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/base/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/layout/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/layout/_main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/scss/libs/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/libs/_vars.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,7 +80,7 @@
       <workItem from="1568603845842" duration="4000" />
       <workItem from="1569512855407" duration="644000" />
       <workItem from="1569513721585" duration="4037000" />
-      <workItem from="1569521419377" duration="2370000" />
+      <workItem from="1569521419377" duration="2925000" />
     </task>
     <task id="LOCAL-00001" summary="First commit from from new machine">
       <created>1568173295476</created>
@@ -172,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569522689182</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Updated tile colors to shades of gray.">
+      <created>1569524711005</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1569524711005</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,7 +210,8 @@
     <MESSAGE value="Updated scss &gt;&gt; banner :after color" />
     <MESSAGE value="Updated scss &gt;&gt; closed space between lines" />
     <MESSAGE value="Removed list of towns in banner section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed list of towns in banner section" />
+    <MESSAGE value="Updated tile colors to shades of gray." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated tile colors to shades of gray." />
   </component>
   <component name="WindowStateProjectService">
     <state x="538" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1569513124281" />
