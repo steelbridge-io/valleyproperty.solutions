@@ -109,13 +109,13 @@
 
 			&:nth-child(6n - 5) {
 				&:before {
-					background-color: _palette(accent7);
+					background-color: _palette(accent10);
 				}
 			}
 
 			&:nth-child(6n - 4) {
 				&:before {
-					background-color: _palette(accent8);
+					background-color: _palette(accent9);
 				}
 			}
 
@@ -133,13 +133,13 @@
 
 			&:nth-child(6n - 1) {
 				&:before {
-					background-color: _palette(accent7);
+					background-color: _palette(accent10);
 				}
 			}
 
 			&:nth-child(6n) {
 				&:before {
-					background-color: _palette(accent8);
+					background-color: _palette(accent9);
 				}
 			}
 		}

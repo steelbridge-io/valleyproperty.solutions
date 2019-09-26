@@ -58,6 +58,18 @@
 	p {
 		margin: 0 0 _size(element-margin) 0;
 	}
+	#one {
+		p {
+			color: _palette(dark-txt);
+		}
+	}
+	#two {
+		.inner {
+			p {
+				color: _palette(dark-txt);
+			}
+		}
+	}
 
 	h1, h2, h3, h4, h5, h6 {
 		color: _palette(fg-bold);
