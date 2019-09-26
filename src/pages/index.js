@@ -30,7 +30,7 @@ class HomeIndex extends React.Component {
                 <div id="main">
                     <section id="one" className="tiles">
                         <article style={{backgroundImage: `url(${pic01})`}}>
-                            <header className="major">
+                            <header className="major landing2">
                                 <h3>We Find Property Buyers</h3>
                                 <p>Marketing Your Home</p>
                             </header>

@@ -16,7 +16,7 @@
 		> section {
 			@include vendor('display', 'flex');
 			@include vendor('flex-direction', 'row');
-			background-color: desaturate(lighten(_palette(bg-alt), 2), 1);
+			background-color: desaturate(lighten(_palette(bg-wht1), 2), 1);
 
 			> .image {
 				background-position: center center;
@@ -57,12 +57,16 @@
 					margin: 0 auto;
 					max-width: 100%;
 					width: _size(inner);
+
+					& h3 {
+						color: _palette(dark-txt);
+					}
 				}
 			}
 
 			&:nth-child(2n) {
 				@include vendor('flex-direction', 'row-reverse');
-				background-color: desaturate(lighten(_palette(bg-alt), 4), 2);
+				background-color: desaturate(lighten(_palette(bg-wht-f5x3), 4), 2);
 
 				> .content {
 					@include vendor('align-items', 'flex-end');

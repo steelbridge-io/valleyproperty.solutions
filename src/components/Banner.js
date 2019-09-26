@@ -3,7 +3,7 @@ import React from 'react'
 const Banner = (props) => (
     <section id="banner" className="major">
         <div className="inner">
-            <header className="major">
+            <header className="major landing2">
                 <h1>Valley Property Solutions</h1>
             </header>
             <div className="content">

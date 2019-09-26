@@ -83,8 +83,17 @@
 		}
 	}
 
-	.major h2 {
-		color: _palette(dark-txt);
+	.major {
+		h1,
+		h2 {
+			color: _palette(dark-txt);
+		}
+	}
+	.major.landing2 {
+		h1,
+		h2 {
+			color: _palette(fg);
+		}
 	}
 
 	h1 {

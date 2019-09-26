@@ -14,7 +14,7 @@ const Generic = (props) => (
         <div id="main" className="alt">
             <section id="one">
                 <div className="inner">
-                    <header className="major">
+                    <header className="major landing1">
                         <h1>123 Elm St</h1>
                     </header>
                     <span className="image main"><img src={pic11} alt="" /></span>
