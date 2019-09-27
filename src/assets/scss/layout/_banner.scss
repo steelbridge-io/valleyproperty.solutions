@@ -33,7 +33,7 @@
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.5;
+			opacity: 0.7;
 			position: absolute;
 			top: 0;
 			width: 100%;
@@ -105,6 +105,15 @@
 
 			&.alt {
 				opacity: 0.75;
+			}
+		}
+
+		.major.landing2 {
+			.logo-box {
+				width: calc(40% + 0.1em);
+				& img {
+					width: 100%;
+				}
 			}
 		}
 

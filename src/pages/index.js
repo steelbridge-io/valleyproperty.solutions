@@ -28,6 +28,16 @@ class HomeIndex extends React.Component {
                 <Banner />
 
                 <div id="main">
+                    <section id="top-fp-cta">
+                        <div className="inner">
+                            <header className="major landing1">
+                                <h1> Contact Us - Valley Property Solutions</h1>
+                            </header>
+                            <div class="content">
+                                <p>(530) 953-5617&nbsp;&nbsp;‬|&nbsp;&nbsp;21975 Stoney Creek Pl Cottonwood, CA 96022</p>
+                            </div>
+                        </div>
+                    </section>
                     <section id="one" className="tiles front-page">
                         <article style={{backgroundImage: `url(${pic01})`}}>
                             <header className="major landing2">
