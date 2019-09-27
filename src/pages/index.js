@@ -41,36 +41,36 @@ class HomeIndex extends React.Component {
                     <section id="one" className="tiles front-page">
                         <article style={{backgroundImage: `url(${pic01})`}}>
                             <header className="major landing2">
-                                <h3>We Find Property Buyers</h3>
-                                <p>Marketing Your Home</p>
+                                <h3>We Understand</h3>
+                                <p>Selling your home can seem like a very intimidating task whether its your choice or not. We just want you to know that we're here to make your life easier and help guid you through this process.</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
-                                <h3>Are You Interested In Home Renovation?</h3>
-                                <p>Do You Really Have To Repair Or Remodel Your Home To Sell It?</p>
+                                <h3>We Offer Cash</h3>
+                                <p>Cash is King and in real estate this can not be more true, most of our offers are in cash… why? Because sellers love cash. Cash offers are the reason we can close in a short amount of time. All of our offers come with a proof of funds to ensure you we have the funding to purchase the property. Along with a proof of funds we also submit a good size down payment.</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
-                                <h3>Contact Us</h3>
-                                <p>This is the first step. Let us put you in touch with a buyer.</p>
+                                <h3>Wholesaling</h3>
+                                <p>What is wholesaling real estate? Wholesaling when a homeowner who owns his/her property free and clear and wants to sell but they don’t want to go threw an agent. In this situation we can go to your house and give it an "as is” appraisal, we then see how much the property would be estimated around after its remodeled, based on that information we will make an offer to put your house under contract. Once under contract we can market the contract then resell the to another redeveloper. You do not have to be a licensed real estate agent to wholesale properties. The advantage to using this strategy is the seller pays no commission fees.</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
-                                <h3>First Step. Start Here.</h3>
-                                <p>Start here. Let's begin.</p>
+                                <h3>Get An Offer!!</h3>
+                                <p>Need to sell your property fast? Give is a call today at (530) 446-2271</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
-                                <h3>Meet The Team</h3>
-                                <p>Find out about who we are.</p>
+                                <h3>Join Our Team</h3>
+                                <p>We are looking to build a team of assets, whether it be a group such as a company or individuals, we need you to bring value to the table and in return we’ll do the same. There’s many perks to working with us, we love to pay our hard working contractors on-time for the benchmarks they complete to our specs. We will be providing constant ...Read more</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>

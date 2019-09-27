@@ -34,8 +34,13 @@ const Contact = (props) => (
                 <section>
                     <div className="contact-method">
                         <span className="icon alt fa-phone"></span>
-                        <h3>Phone</h3>
+                        <h3>Business Phone</h3>
                         <span>(530) 953-5617‬</span>
+                    </div>
+                    <div className="contact-method">
+                        <span className="icon alt fa-phone"></span>
+                        <h3>Cell Phone</h3>
+                        <span>(530) 953-5617</span>
                     </div>
                 </section>
                 <section>

@@ -13,7 +13,7 @@ const Banner = (props) => (
                 </div>
             </header>
             <div className="content">
-                <p>Valley Property Solutions Inc. is a renowned environmental & engineering consulting firm based in Northern California, specializing in commercial real estate transactions and construction management.</p>
+                <p>Valley Property Solutions, LLC is a residential redevelopment company that purchases homes in "as-is" condition. We make cash offers and can close in as little as 14 days. We purchase distressed/outdated properties at a discount and then force appreciation by renovating the home. Once remodeled, we then sell the house at its appropriate price to a new homeowner/landlord.</p>
                 <ul className="actions">
                     <li><a href="#one" className="button next scrolly">Get Started</a></li>
                 </ul>
