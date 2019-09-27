@@ -63,6 +63,9 @@
 			color: _palette(dark-txt);
 		}
 	}
+	#one.front-page p {
+		color: _palette(fg);
+	}
 	#two {
 		.inner {
 			p {

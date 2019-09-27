@@ -4,14 +4,7 @@
     <list default="true" id="8c13ce4a-c6cb-4fa1-a481-738f57e43c55" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/scss/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/base/_typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/components/_spotlights.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/components/_spotlights.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/layout/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/layout/_main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/libs/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/libs/_vars.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Banner.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Banner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BannerLanding.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BannerLanding.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/generic.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/generic.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/landing.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +79,7 @@
       <workItem from="1568603845842" duration="4000" />
       <workItem from="1569512855407" duration="644000" />
       <workItem from="1569513721585" duration="4037000" />
-      <workItem from="1569521419377" duration="9832000" />
+      <workItem from="1569521419377" duration="10535000" />
     </task>
     <task id="LOCAL-00001" summary="First commit from from new machine">
       <created>1568173295476</created>
@@ -200,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569536549821</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Updating colors of fonts">
+      <created>1569542176558</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1569542176558</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,7 +233,8 @@
     <MESSAGE value="Updated tile colors to shades of gray." />
     <MESSAGE value="Added drk-text to _palette" />
     <MESSAGE value="Updating colors of tiles and sections" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating colors of tiles and sections" />
+    <MESSAGE value="Updating colors of fonts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating colors of fonts" />
   </component>
   <component name="WindowStateProjectService">
     <state x="538" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1569513124281" />
