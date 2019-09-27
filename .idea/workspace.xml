@@ -2,14 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c13ce4a-c6cb-4fa1-a481-738f57e43c55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/images/VPS_Logo-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/VPS_Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app-81c70cabb2ef5dd7c164.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app-81c70cabb2ef5dd7c164.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/commons-bc240b0be73d6fa34fce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/commons-bc240b0be73d6fa34fce.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/commons.f5100dd4e38b413b60d2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---node-modules-gatsby-plugin-offline-app-shell-js-36ae09dbfbc627dd28f8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---node-modules-gatsby-plugin-offline-app-shell-js-36ae09dbfbc627dd28f8.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-404-js-87e01bc378184f3bc727.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-404-js-87e01bc378184f3bc727.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-elements-js-170f7fff0365d09b2ba0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-elements-js-170f7fff0365d09b2ba0.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-generic-js-1f361999b96a09f1aa7a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-generic-js-1f361999b96a09f1aa7a.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-index-js-eef24454a471b8e8e7c5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-index-js-eef24454a471b8e8e7c5.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-landing-js-1eef1bcac9400ed07319.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-landing-js-1eef1bcac9400ed07319.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/VPS_Logo-white-cdeaa6bbd0586a1d62d802e8e3e9c136.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/webpack-runtime-263770538e24276a3b43.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/webpack-runtime-263770538e24276a3b43.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/layout/_banner.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/layout/_banner.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/layout/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/layout/_main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/libs/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/libs/_vars.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Banner.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Banner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/chunk-map.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/chunk-map.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/commons.bf37d4cf7a74b9429efb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/elements/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/elements/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/generic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/generic/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/landing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/landing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/offline-plugin-app-shell-fallback/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/offline-plugin-app-shell-fallback/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/404.html/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/404.html/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/404/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/404/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/elements/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/elements/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/generic/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/generic/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/index/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/index/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/landing/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/landing/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/offline-plugin-app-shell-fallback/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/offline-plugin-app-shell-fallback/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/sw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack.stats.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/webpack.stats.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +123,7 @@
       <workItem from="1568603845842" duration="4000" />
       <workItem from="1569512855407" duration="644000" />
       <workItem from="1569513721585" duration="4037000" />
-      <workItem from="1569521419377" duration="14558000" />
+      <workItem from="1569521419377" duration="15261000" />
     </task>
     <task id="LOCAL-00001" summary="First commit from from new machine">
       <created>1568173295476</created>
@@ -217,7 +251,21 @@
       <option name="project" value="LOCAL" />
       <updated>1569542835839</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Updating colors of fonts">
+      <created>1569547147714</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1569547147714</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Updating colors of fonts">
+      <created>1569547181019</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1569547181019</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
