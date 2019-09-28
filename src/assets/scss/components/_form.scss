@@ -228,3 +228,25 @@
 		color: _palette(fg-light) !important;
 		opacity: 1.0;
 	}
+
+	#contactus {
+		background: _palette(bg-wht);
+		label,
+		span,
+		a,
+		h3 {
+			color: _palette(dark-txt);
+		}
+		input,
+		li input,
+		textarea {
+			border: 2px solid _palette(dark-txt);
+		}
+		input[type="reset"] {
+			color: _palette(dark-txt);
+		}
+		.icon.alt:before {
+			background: _palette(dark-txt);
+			color: _palette(bg-wht);
+		}
+	}

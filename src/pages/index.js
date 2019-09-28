@@ -44,7 +44,7 @@ class HomeIndex extends React.Component {
                                 <h3>We Understand</h3>
                                 <p>Selling your home can seem like a very intimidating task whether its your choice or not. We just want you to know that we're here to make your life easier and help guid you through this process.</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/help" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
