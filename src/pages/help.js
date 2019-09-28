@@ -33,12 +33,12 @@ const Landing = (props) => (
                     </Link>
                     <div className="content">
                         <div className="inner">
-                            <header className="major landing1">
+                            <header id="WeOfferCash" className="major landing1">
                                 <h3>We Offer Cash</h3>
                             </header>
                             <p>Cash is King and in real estate this can not be more true, most of our offers are in cash… why? Because sellers love cash. Cash offers are the reason we can close in a short amount of time. All of our offers come with a proof of funds to ensure you we have the funding to purchase the property. Along with a proof of funds we also submit a good size down payment.</p>
                             <ul className="actions">
-                                <li><Link to="/generic" className="button">Learn more</Link></li>
+                                <li><Link to="/contact-us" className="button">Learn more</Link></li>
                             </ul>
                         </div>
                     </div>

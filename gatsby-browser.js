@@ -1,3 +1,4 @@
+import React from 'react';
 /**
  * Implement Gatsby's Browser APIs in this file.
  *

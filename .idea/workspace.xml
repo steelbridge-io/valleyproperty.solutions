@@ -2,101 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c13ce4a-c6cb-4fa1-a481-738f57e43c55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/app-6db49708d81ddf6f2923.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/app-6db49708d81ddf6f2923.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/app-7acd795eb9a65b49b88f.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/app-7acd795eb9a65b49b88f.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/app-c64c06f44984c1942db9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/app-c64c06f44984c1942db9.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/commons-39f9bb77b51fe3a4be44.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/commons-39f9bb77b51fe3a4be44.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/commons-63c9223ff8674d971358.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/commons-63c9223ff8674d971358.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/commons-de6b262b8aac8f9d093b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/commons-de6b262b8aac8f9d093b.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/commons.07874be31a68d650c79a.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-contact-us-js-d07e12c6b7acb8cd2d5a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-contact-us-js-d07e12c6b7acb8cd2d5a.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-elements-js-3d441407be4b71426f82.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-elements-js-3d441407be4b71426f82.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-elements-js-d4cf39bcab8e0367f5cd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-elements-js-d4cf39bcab8e0367f5cd.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-elements-js-f3ad3aebd2d3ab8f24bc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-elements-js-f3ad3aebd2d3ab8f24bc.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-generic-js-7ed02907632720ccf4e6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-generic-js-7ed02907632720ccf4e6.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-generic-js-891ef7440f97abbe54ef.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-generic-js-891ef7440f97abbe54ef.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-generic-js-e4099b2d18dcaba85cdb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-generic-js-e4099b2d18dcaba85cdb.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-help-js-568b5610fe85a85981dd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-help-js-568b5610fe85a85981dd.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-help-js-a81094adb2c506422a53.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-help-js-a81094adb2c506422a53.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-index-js-3a77f307bb5b928114da.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-index-js-3a77f307bb5b928114da.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-index-js-9dde7fe0e831e41b0f28.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-index-js-9dde7fe0e831e41b0f28.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-index-js-d7039f6fed9c22c83a28.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-index-js-d7039f6fed9c22c83a28.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-landing-js-053289af6f74f7abcfa3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-landing-js-053289af6f74f7abcfa3.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-landing-js-129ce08284a536701022.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-landing-js-129ce08284a536701022.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-landing-js-c91faef96ebd4497c3a3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-landing-js-c91faef96ebd4497c3a3.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-landing-js-e04d14a39a72bea9ccd1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-landing-js-e04d14a39a72bea9ccd1.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-projects-js-0b2a4fc9b8244c1d75a1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-projects-js-0b2a4fc9b8244c1d75a1.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-projects-js-131eb24fed1a51441c6c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-projects-js-131eb24fed1a51441c6c.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-projects-js-57cc5e174612225fdfd3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-projects-js-57cc5e174612225fdfd3.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/contact-us/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/help/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/page-data/projects/page-data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/projects/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/webpack-runtime-07c7bf131210be8da907.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/webpack-runtime-07c7bf131210be8da907.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/webpack-runtime-4f69e4fe665edddfcd5c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/webpack-runtime-4f69e4fe665edddfcd5c.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/webpack-runtime-83c1fe0a8192006a1801.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/webpack-runtime-83c1fe0a8192006a1801.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/webpack-runtime-9ff342b30b805902be1b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/webpack-runtime-9ff342b30b805902be1b.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layoutContact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/contact-us.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/help.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/projects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app-1c15968ad214815c11f8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app-1c15968ad214815c11f8.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/commons-82b3e4cda463b3368388.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/commons-82b3e4cda463b3368388.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/commons-fafa715c42cae3887c78.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/commons-fafa715c42cae3887c78.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-help-js-b91571a621b5bbe3b08b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-help-js-b91571a621b5bbe3b08b.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-index-js-3ce15c65e690f002ab26.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/component---src-pages-index-js-3ce15c65e690f002ab26.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/webpack-runtime-3058e712a0f97da89332.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/webpack-runtime-3058e712a0f97da89332.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/dev-404-page.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-browser.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/404/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/chunk-map.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/chunk-map.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/commons.f5100dd4e38b413b60d2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/contact-us/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/contact-us/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/elements/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/elements/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/generic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/generic/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/help/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/help/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/landing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/landing/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/offline-plugin-app-shell-fallback/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/offline-plugin-app-shell-fallback/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/page-data/404.html/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/404.html/page-data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/page-data/404/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/404/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/contact-us/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/contact-us/page-data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/page-data/dev-404-page/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/dev-404-page/page-data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/page-data/elements/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/elements/page-data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/page-data/generic/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/generic/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/help/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/help/page-data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/page-data/index/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/index/page-data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/page-data/landing/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/landing/page-data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/page-data/offline-plugin-app-shell-fallback/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/offline-plugin-app-shell-fallback/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/projects/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/projects/page-data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/projects/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/sw.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/webpack.stats.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/webpack.stats.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/components/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/components/_form.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BannerLanding.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BannerLanding.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/help.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/help.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/landing.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +134,7 @@
       <workItem from="1569690984720" duration="51000" />
       <workItem from="1569691216405" duration="70000" />
       <workItem from="1569691446502" duration="87000" />
-      <workItem from="1569691579646" duration="3807000" />
+      <workItem from="1569691579646" duration="9278000" />
     </task>
     <task id="LOCAL-00001" summary="First commit from from new machine">
       <created>1568173295476</created>
@@ -362,7 +311,21 @@
       <option name="project" value="LOCAL" />
       <updated>1569551717975</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="New pages, layout, scss">
+      <created>1569696433053</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1569696433054</updated>
+    </task>
+    <task id="LOCAL-00027" summary="New pages, layout, scss">
+      <created>1569696444340</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1569696444340</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -398,13 +361,22 @@
     <MESSAGE value="Updating colors of fonts" />
     <MESSAGE value="Updated build" />
     <MESSAGE value="Added content" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added content" />
+    <MESSAGE value="New pages, layout, scss" />
+    <option name="LAST_COMMIT_MESSAGE" value="New pages, layout, scss" />
   </component>
   <component name="WindowStateProjectService">
     <state x="404" y="136" key="#Updates" timestamp="1569691595680">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
     <state x="404" y="136" key="#Updates/45.23.1635.1027@45.23.1635.1027" timestamp="1569691595680" />
+    <state x="521" y="294" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1569697661288">
+      <screen x="45" y="23" width="1635" height="1027" />
+    </state>
+    <state x="521" y="294" key="#com.intellij.fileTypes.FileTypeChooser/45.23.1635.1027@45.23.1635.1027" timestamp="1569697661288" />
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1569696485992">
+      <screen x="45" y="23" width="1635" height="1027" />
+    </state>
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1569696485992" />
     <state x="538" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1569691580636">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
