@@ -56,7 +56,9 @@
 				margin-bottom: 0;
 				text-transform: uppercase;
 			}
-
+			p.lead {
+				font-size: _font(lead-size);
+			}
 			body.is-ie & {
 				> :first-child {
 					&:after {

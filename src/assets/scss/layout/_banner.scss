@@ -91,6 +91,9 @@
 					letter-spacing: _font(letter-spacing-alt);
 					text-transform: uppercase;
 				}
+				p.lead {
+					font-size: _font(lead-size);
+				}
 			}
 		}
 
