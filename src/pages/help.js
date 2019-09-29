@@ -33,7 +33,7 @@ const Landing = (props) => (
                     </Link>
                     <div className="content">
                         <div className="inner">
-                            <header id="WeOfferCash" className="major landing1">
+                            <header id="weoffercash" className="major landing1">
                                 <h3>We Offer Cash</h3>
                             </header>
                             <p>Cash is King and in real estate this can not be more true, most of our offers are in cash… why? Because sellers love cash. Cash offers are the reason we can close in a short amount of time. All of our offers come with a proof of funds to ensure you we have the funding to purchase the property. Along with a proof of funds we also submit a good size down payment.</p>
@@ -49,7 +49,7 @@ const Landing = (props) => (
                     </Link>
                     <div className="content">
                         <div className="inner">
-                            <header className="major landing1">
+                            <header id="wholesailing" className="major landing1">
                                 <h3>Wholesaling</h3>
                             </header>
                             <p>What is wholesaling real estate? Wholesaling when a homeowner who owns his/her property free and clear and wants to sell but they don’t want to go threw an agent. In this situation we can go to your house and give it an "as is” appraisal, we then see how much the property would be estimated around after its remodeled, based on that information we will make an offer to put your house under contract. Once under contract we can market the contract then resell the to another redeveloper. You do not have to be a licensed real estate agent to wholesale properties. The advantage to using this strategy is the seller pays no commission fees.</p>
@@ -65,7 +65,7 @@ const Landing = (props) => (
                     </Link>
                     <div className="content">
                         <div className="inner">
-                            <header className="major landing1">
+                            <header id="getanoffer" className="major landing1">
                                 <h3>Get An Offer!!</h3>
                             </header>
                             <p>Need to sell your property fast? Give is a call today at (530) 446-2271</p>
