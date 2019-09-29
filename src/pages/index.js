@@ -50,7 +50,7 @@ class HomeIndex extends React.Component {
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
-                                <h3>We Offer Cash, Yay  <span className="fa fa-money"></span></h3>
+                                <h3>We Offer Cash  <span className="fa fa-money"></span></h3>
                                 <p>Cash is King and in real estate this can not be more true, most of our offers are in cash… why? Because sellers love cash. Cash offers are the reason we can close in a short amount of time. All of our offers come with a proof of funds to ensure you we have the funding to purchase the property. Along with a proof of funds we also submit a good size down payment.</p>
                             </header>
                             <Link to="/help/#weoffercash" className="link primary"></Link>

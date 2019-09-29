@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c13ce4a-c6cb-4fa1-a481-738f57e43c55" name="Default Changelist" comment="" />
+    <list default="true" id="8c13ce4a-c6cb-4fa1-a481-738f57e43c55" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +97,7 @@
       <workItem from="1569691216405" duration="70000" />
       <workItem from="1569691446502" duration="87000" />
       <workItem from="1569691579646" duration="9278000" />
-      <workItem from="1569716585461" duration="5300000" />
+      <workItem from="1569716585461" duration="5645000" />
     </task>
     <task id="LOCAL-00001" summary="First commit from from new machine">
       <created>1568173295476</created>
@@ -295,7 +302,21 @@
       <option name="project" value="LOCAL" />
       <updated>1569726578909</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="added about page, linktargets">
+      <created>1569726622231</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1569726622231</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Updated biuld">
+      <created>1569726699464</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1569726699464</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,7 +354,8 @@
     <MESSAGE value="Added content" />
     <MESSAGE value="New pages, layout, scss" />
     <MESSAGE value="added about page, linktargets" />
-    <option name="LAST_COMMIT_MESSAGE" value="added about page, linktargets" />
+    <MESSAGE value="Updated biuld" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated biuld" />
   </component>
   <component name="WindowStateProjectService">
     <state x="404" y="136" key="#Updates" timestamp="1569691595680">
@@ -344,10 +366,10 @@
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
     <state x="521" y="294" key="#com.intellij.fileTypes.FileTypeChooser/45.23.1635.1027@45.23.1635.1027" timestamp="1569697661288" />
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1569726597584">
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1569726731293">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1569726597584" />
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1569726731293" />
     <state x="538" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1569716587625">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
