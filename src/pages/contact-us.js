@@ -4,7 +4,10 @@ import LayoutContact from '../components/layoutContact'
 
 import pic11 from '../assets/images/pic11.jpg'
 
+
+
 const ContactUs = (props) => (
+
     <LayoutContact>
     <Helmet>
         <title>Generic - Forty by HTML5 UP</title>
@@ -13,7 +16,7 @@ const ContactUs = (props) => (
     <section id="contactus">
         <div className="inner">
             <section>
-                <form method="post" action="#">
+                <form method="post" action="#" onSubmit={this.handleSubmit.bind(this)}>
                     <div className="field half first">
                         <label htmlFor="name">Name</label>
                         <input type="text" name="name" id="name" />
