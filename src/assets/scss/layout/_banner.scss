@@ -93,6 +93,12 @@
 				}
 				p.lead {
 					font-size: _font(lead-size);
+					strong {
+						color: #ffffff;
+						font-weight: 900;
+						font-size: 1.4em;
+						letter-spacing: 1.3px;
+					}
 				}
 			}
 		}

@@ -10,7 +10,30 @@
 		&.special {
 			text-align: center;
 		}
+		a {
+			border-bottom: none;
+		}
 	}
+
+	article#article-one:hover,
+	article#article-two:hover,
+	article#article-three:hover,
+	article#article-four:hover,
+	article#article-five:hover,
+	article#article-six:hover {
+
+			header {
+				h3,
+				p,
+				a {
+					text-shadow: 1.5px 2px 3px #000000;
+				}
+
+				a {
+					color: _palette(red);
+				}
+			}
+		}
 
 	header {
 		&.dark-line.major{
