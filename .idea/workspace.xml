@@ -1,64 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c13ce4a-c6cb-4fa1-a481-738f57e43c55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/app-a89177c10eefdd89de9a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/app-a89177c10eefdd89de9a.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/commons-9bcf001a2a1d114c054a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/commons-9bcf001a2a1d114c054a.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---node-modules-gatsby-plugin-offline-app-shell-js-8c5cd5e4a65e8950af40.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---node-modules-gatsby-plugin-offline-app-shell-js-8c5cd5e4a65e8950af40.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-404-js-aa202f23ecbc49f96b9d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-404-js-aa202f23ecbc49f96b9d.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-about-js-1437fc20d08ff6792015.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-about-js-1437fc20d08ff6792015.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-contact-us-js-047fef0b0a582911195f.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-contact-us-js-047fef0b0a582911195f.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-elements-js-6c6c00f7df144ac0cfba.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-elements-js-6c6c00f7df144ac0cfba.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-generic-js-803dfc1614e30363441a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-generic-js-803dfc1614e30363441a.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-help-js-8d8cd193463ebba50c0b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-help-js-8d8cd193463ebba50c0b.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-index-js-98232bf61c81596fcd5f.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-index-js-98232bf61c81596fcd5f.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-landing-js-f7336fd740ad11d46c55.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-landing-js-f7336fd740ad11d46c55.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-projects-js-8d02906a4c27a3a2fddd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/component---src-pages-projects-js-8d02906a4c27a3a2fddd.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/render-page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/render-page.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/webpack-runtime-6ccd750ba0691135a079.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/webpack-runtime-6ccd750ba0691135a079.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/chunk-map.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/chunk-map.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/contact-us/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/elements/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/generic/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/help/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/landing/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/offline-plugin-app-shell-fallback/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/offline-plugin-app-shell-fallback/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/404.html/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/404.html/page-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/404/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/404/page-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/about/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/about/page-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/contact-us/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/contact-us/page-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/elements/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/elements/page-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/generic/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/generic/page-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/help/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/help/page-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/index/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/index/page-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/landing/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/landing/page-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/offline-plugin-app-shell-fallback/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/offline-plugin-app-shell-fallback/page-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page-data/projects/page-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-data/projects/page-data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/projects/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/webpack.stats.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/webpack.stats.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/contact-us.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contact-us.js" afterDir="false" />
-    </list>
+    <list default="true" id="8c13ce4a-c6cb-4fa1-a481-738f57e43c55" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,7 +101,7 @@
       <workItem from="1569691446502" duration="87000" />
       <workItem from="1569691579646" duration="9278000" />
       <workItem from="1569716585461" duration="6005000" />
-      <workItem from="1569790176190" duration="12191000" />
+      <workItem from="1569790176190" duration="12422000" />
     </task>
     <task id="LOCAL-00001" summary="First commit from from new machine">
       <created>1568173295476</created>
@@ -426,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569866919451</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Update contact-us.js">
+      <created>1569867076714</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1569867076714</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -467,7 +417,8 @@
     <MESSAGE value="Updated biuld" />
     <MESSAGE value="Removed Yay" />
     <MESSAGE value="Added read more, added .lead class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added read more, added .lead class" />
+    <MESSAGE value="Update contact-us.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update contact-us.js" />
   </component>
   <component name="WindowStateProjectService">
     <state x="404" y="136" key="#Updates" timestamp="1569691595680">
@@ -490,10 +441,10 @@
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
     <state x="706" y="587" key="NewPhpFileDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1569801261760" />
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1569807152481">
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1569867201330">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1569807152481" />
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1569867201330" />
     <state x="538" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1569790179597">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
