@@ -16,7 +16,7 @@ const ContactUs = (props) => (
     <section id="contactus">
         <div className="inner">
             <section>
-                <form method="post" action="#" onSubmit={this.handleSubmit.bind(this)}>
+                <form method="post" action="#">
                     <div className="field half first">
                         <label htmlFor="name">Name</label>
                         <input type="text" name="name" id="name" />
