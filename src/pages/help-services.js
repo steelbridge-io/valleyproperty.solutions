@@ -26,11 +26,14 @@ const Landing = (props) => (
                         <h2>We Understand</h2>
                     </header>
                     <p>Selling your home can seem like a very intimidating task whether its your choice or not. We just want you to know that we're here to make your life easier and help guid you through this process.</p>
+                    <ul className="actions">
+                        <li><Link to="/common-reasons-for-selling-your-home" className="button">Learn more | Reasons Why People Sell Their Home</Link></li>
+                    </ul>
                 </div>
             </section>
             <section id="two" className="spotlights">
                 <section>
-                    <Link to="/generic" className="image">
+                    <Link to="/contact-us" className="image">
                         <img src={pic08} alt="Valley Property Solutions" />
                     </Link>
                     <div className="content">
@@ -46,7 +49,7 @@ const Landing = (props) => (
                     </div>
                 </section>
                 <section>
-                    <Link to="/generic" className="image">
+                    <Link to="/contact-us" className="image">
                         <img src={pic09} alt="Valley Property Solutions" />
                     </Link>
                     <div className="content">
@@ -56,13 +59,13 @@ const Landing = (props) => (
                             </header>
                             <p>What is wholesaling real estate? Wholesaling when a homeowner who owns his/her property free and clear and wants to sell but they don’t want to go threw an agent. In this situation we can go to your house and give it an "as is” appraisal, we then see how much the property would be estimated around after its remodeled, based on that information we will make an offer to put your house under contract. Once under contract we can market the contract then resell the to another redeveloper. You do not have to be a licensed real estate agent to wholesale properties. The advantage to using this strategy is the seller pays no commission fees.</p>
                             <ul className="actions">
-                                <li><Link to="/generic" className="button">Learn more</Link></li>
+                                <li><Link to="/properties-we-purchase-what-properties-catch-our-attention" className="button">Learn more</Link></li>
                             </ul>
                         </div>
                     </div>
                 </section>
                 <section>
-                    <Link to="/generic" className="image">
+                    <Link to="/contact-us" className="image">
                         <img src={pic10} alt="Valley Property Solutions" />
                     </Link>
                     <div className="content">
@@ -72,7 +75,7 @@ const Landing = (props) => (
                             </header>
                             <p>Need to sell your property fast? Give is a call today at (530) 446-2271</p>
                             <ul className="actions">
-                                <li><Link to="/generic" className="button">Learn more</Link></li>
+                                <li><Link to="/contact-us" className="button">Learn more</Link></li>
                             </ul>
                         </div>
                     </div>

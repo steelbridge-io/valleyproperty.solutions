@@ -8,9 +8,10 @@ const Menu = (props) => (
             <ul className="links">
                 <li><Link onClick={props.onToggleMenu} to="/">Home</Link></li>
                 <li><Link onClick={props.onToggleMenu} to="/projects">Projects</Link></li>
-                <li><Link onClick={props.onToggleMenu} to="/help">How We Can Help</Link></li>
+                <li><Link onClick={props.onToggleMenu} to="/help-services">How We Can Help</Link></li>
+                <li><Link onClick={props.onToggleMenu} to="/properties-we-purchase-what-properties-catch-our-attention">About Properties We Purchase</Link></li>
+                <li><Link onClick={props.onToggleMenu} to="/join-valley-property-solutions">Join Our Team</Link></li>
                 <li><Link onClick={props.onToggleMenu} to="/contact-us">Contact Us</Link></li>
-                <li><Link onClick={props.onToggleMenu} to="/about">About</Link></li>
             </ul>
             <ul className="actions vertical">
                 <li><a href="/contact-us" className="button special fit">Get Started</a></li>
