@@ -30,9 +30,9 @@ if( empty($errors))
 
     $email_body = "You have received a new message. ".
 
-        "<br>Here are the details:\n Name: $name \n ".
+        "Here are the details:\n Name: $name \n ".
 
-        "<br>Email: $email_address\n Message:<br> \n $message";
+        "Email: $email_address\n Message: \n $message";
 
     $headers = "From: $myemail\n";
 
