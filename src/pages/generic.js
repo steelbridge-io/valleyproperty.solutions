@@ -9,6 +9,8 @@ const Generic = (props) => (
         <Helmet>
             <title>Generic - Forty by HTML5 UP</title>
             <meta name="description" content="Generic Page" />
+            <meta name="robots" content="noindex" />
+
         </Helmet>
 
         <div id="main" className="alt">

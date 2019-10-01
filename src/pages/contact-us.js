@@ -3,18 +3,22 @@ import Helmet from 'react-helmet'
 import LayoutContact from '../components/layoutContact'
 import pic11 from '../assets/images/pic11.jpg'
 import piclogoleft from "../assets/images/VPS_Logo.png";
+import SEO from '../components/seo'
 
 const ContactUs = (props) => (
 
     <LayoutContact>
+        <SEO />>
         <Helmet>
             <title>Valley Property Solutions | Contact Us</title>
-            <meta name="description" content="Contact a realestate wholesale service and take the first step in getting cash for your home." />
+            <meta name="description" content="Contact Valley Property Solutions, a realestate wholesale service, and take the first step in getting cash for your home." />
+            <script type="application/ld+json">{JSON.stringify(schemaOrgJSONLD)}</script>
         </Helmet>
         <div id="main">
-            <div><img src={piclogoleft} alt="" /></div>
+
             <section id="top-fp-cta">
                 <div className="inner contact-us">
+                    <div><img src={piclogoleft} alt="Valley Property Solutions" /></div>
                     <header className="major landing1">
                         <h1> Contact Us - Valley Property Solutions</h1>
                     </header>
@@ -84,3 +88,37 @@ const ContactUs = (props) => (
 )
 
 export default ContactUs
+
+let schemaOrgJSONLD = [
+    {
+        "@context": "http://www.schema.org",
+        "@type": "RealEstateAgent",
+        "name": "Valley Property Solutions",
+        "url": "https://valleyproperty.solutions",
+        "sameAs": [
+            "https://valleyproperty.solutions/contact-us"
+        ],
+        "logo": "https://valleyproperty.solutions/static/VPS_Logo-462bff187d98b65f7b4e097adce34438.png",
+        "description": "Northern California Wholesale Realestate Sales & Investments",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "21975 Stoney Creek Pl",
+            "addressLocality": "Cottonwood",
+            "addressRegion": "California",
+            "postalCode": "96022",
+            "addressCountry": "United States"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.358980",
+            "longitude": "-122.218530"
+        },
+        "hasMap": "https://www.latlong.net/c/?lat=40.358978&long=-122.218529",
+        "openingHours": "Mo, Tu, We, Th, Fr 08:00-17:00",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "(530) 953-5617‬",
+            "contactType": "Telephone"
+        }
+    }
+]

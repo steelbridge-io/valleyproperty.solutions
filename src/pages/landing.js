@@ -3,6 +3,7 @@ import { Link } from 'gatsby'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 import BannerLanding from '../components/BannerLanding'
+import SEO from '../components/seo'
 
 import pic08 from '../assets/images/pic08.jpg'
 import pic09 from '../assets/images/pic09.jpg'
@@ -10,9 +11,11 @@ import pic10 from '../assets/images/pic10.jpg'
 
 const Landing = (props) => (
     <Layout>
+        <SEO />
         <Helmet>
             <title>Our Services - How We Can Help You</title>
             <meta name="description" content="Landing Page" />
+            <meta name="robots" content="noindex" />
         </Helmet>
 
         <BannerLanding />
@@ -29,7 +32,7 @@ const Landing = (props) => (
             <section id="two" className="spotlights">
                 <section>
                     <Link to="/generic" className="image">
-                        <img src={pic08} alt="" />
+                        <img src={pic08} alt="Valley Property Solutions" />
                     </Link>
                     <div className="content">
                         <div className="inner">
@@ -45,7 +48,7 @@ const Landing = (props) => (
                 </section>
                 <section>
                     <Link to="/generic" className="image">
-                        <img src={pic09} alt="" />
+                        <img src={pic09} alt="Valley Property Solutions" />
                     </Link>
                     <div className="content">
                         <div className="inner">
@@ -61,7 +64,7 @@ const Landing = (props) => (
                 </section>
                 <section>
                     <Link to="/generic" className="image">
-                        <img src={pic10} alt="" />
+                        <img src={pic10} alt="Valley Property Solutions" />
                     </Link>
                     <div className="content">
                         <div className="inner">

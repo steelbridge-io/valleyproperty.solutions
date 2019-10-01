@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Valley Property Solutions | Wholesale Realestate Investing",
+    title: "Valley Property Solutions",
     author: "Chris Parsons",
-    description: "Valley Property Solutions | N. California Wholesale Realesate Investing"
+    description: " | N. California Wholesale Realesate Investing"
   },
   plugins: [
     'gatsby-plugin-react-helmet',

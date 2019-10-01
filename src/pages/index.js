@@ -3,6 +3,7 @@ import { Link } from 'gatsby'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 import Banner from '../components/Banner'
+import SEO from '../components/seo'
 
 import pic01 from '../assets/images/pic01.jpg'
 import pic02 from '../assets/images/pic02.jpg'
@@ -16,6 +17,7 @@ class HomeIndex extends React.Component {
 
         return (
             <Layout>
+                <SEO />
                 <Helmet
                     title="Valley Property Solutions LLC | Wholesale Property Investing"
                     meta={[
@@ -23,6 +25,7 @@ class HomeIndex extends React.Component {
                         { name: 'keywords', content: 'wholesale, property, home, realestate, wholesale property investing' },
                     ]}
                 >
+                    <script type="application/ld+json">{JSON.stringify(schemaOrgJSONLD)}</script>
                 </Helmet>
 
                 <Banner />
@@ -101,3 +104,37 @@ class HomeIndex extends React.Component {
 }
 
 export default HomeIndex
+
+let schemaOrgJSONLD = [
+    {
+        "@context": "http://www.schema.org",
+        "@type": "RealEstateAgent",
+        "name": "Valley Property Solutions",
+        "url": "https://valleyproperty.solutions",
+        "sameAs": [
+            "https://valleyproperty.solutions/contact-us"
+        ],
+        "logo": "https://valleyproperty.solutions/static/VPS_Logo-462bff187d98b65f7b4e097adce34438.png",
+        "description": "Northern California Wholesale Realestate Sales & Investments",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "21975 Stoney Creek Pl",
+            "addressLocality": "Cottonwood",
+            "addressRegion": "California",
+            "postalCode": "96022",
+            "addressCountry": "United States"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.358980",
+            "longitude": "-122.218530"
+        },
+        "hasMap": "https://www.latlong.net/c/?lat=40.358978&long=-122.218529",
+        "openingHours": "Mo, Tu, We, Th, Fr 08:00-17:00",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "(530) 953-5617‬",
+            "contactType": "Telephone"
+        }
+    }
+]
