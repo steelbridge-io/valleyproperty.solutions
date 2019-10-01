@@ -1,5 +1,6 @@
 # Project dependencies
 /node_modules/*
+/public/*
 yarn-error.log
 package-lock.json
 package.json
