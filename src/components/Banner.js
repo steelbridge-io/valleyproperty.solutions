@@ -13,7 +13,7 @@ const Banner = (props) => (
                 </div>
             </header>
             <div className="content">
-                <p className="lead"><strong>Valley Property Solutions, LLC</strong> is a residential redevelopment company that purchases homes in "as-is" condition. We make cash offers and can close in as little as 14 days. We purchase distressed/outdated properties at a discount and then force appreciation by renovating the home. Once remodeled, we then sell the house at its appropriate price to a new homeowner/landlord.</p>
+                <p className="lead"><strong>Valley Property Solutions, LLC</strong> is a residential redevelopment company that purchases homes in "as-is" condition. We make cash offers and can close in as little as 14 days. We purchase distressed/outdated properties at a discount and then force appreciation by renovating the home. Once remodeled, we then sell the house at its appropriate price to a new homeowner/landlord. To find out more about how we can help you sell your home contact us. Let's get started.</p>
                 <ul className="actions">
                     <li><a href="#one" className="button next scrolly">Get Started</a></li>
                 </ul>

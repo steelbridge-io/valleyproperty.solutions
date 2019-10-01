@@ -17,10 +17,10 @@ class HomeIndex extends React.Component {
         return (
             <Layout>
                 <Helmet
-                    title="Valley Property Solutions LLC | Wholesale Property Resource"
+                    title="Valley Property Solutions LLC | Wholesale Property Investing"
                     meta={[
-                        { name: 'description', content: 'Wholesale Property Sales in California. Valley Property Solutions LLC helps you sell your home fast.' },
-                        { name: 'keywords', content: 'wholesale, property, home, realestate' },
+                        { name: 'description', content: 'Wholesale Property Sales in California. Valley Property Solutions LLC helps you sell your home fast. We specialize in wholesale property investing.' },
+                        { name: 'keywords', content: 'wholesale, property, home, realestate, wholesale property investing' },
                     ]}
                 >
                 </Helmet>

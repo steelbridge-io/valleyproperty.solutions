@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Forty V2",
-    author: "Hunter Chang",
-    description: "A Gatsby.js V2 Starter based on Forty by HTML5 UP"
+    title: "Valley Property Solutions | Wholesale Realestate Investing",
+    author: "Chris Parsons",
+    description: "Valley Property Solutions | N. California Wholesale Realesate Investing"
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -18,7 +18,21 @@ module.exports = {
         icon: 'src/assets/images/website-icon.png', // This path is relative to the root of the site.
       },
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-149208529-1",
+        head: true,
+        pageTransitionDelay: 0,
+        optimizeId: "GTM-P36H4PR",
+        experimentId: "R_HVO5A8Q7iJQYtxZzLhDQ",
+        sampleRate: 5,
+        siteSpeedSampleRate: 10,
+        cookieDomain: "valleyproperty.solutions",
+      },
+    },
     'gatsby-plugin-sass',
     'gatsby-plugin-offline'
   ],
 }
+
