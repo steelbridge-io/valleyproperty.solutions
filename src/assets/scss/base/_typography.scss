@@ -58,6 +58,9 @@
 		margin: 0 0 _size(element-margin) 0;
 	}
 	#one {
+		h1,
+		h2,
+		h3,
 		p {
 			color: _palette(dark-txt);
 		}
