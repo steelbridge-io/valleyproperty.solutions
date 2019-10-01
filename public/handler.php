@@ -1,7 +1,7 @@
 <?php
 
 $errors = '';
-$myemail = 'chris@parsonshosting.com';//<-----Put Your email address here.
+$myemail = 'christian@valleyproperty.solutions';//<-----Put Your email address here.
 if(empty($_POST['name'])  ||
     empty($_POST['email']) ||
     empty($_POST['message']))

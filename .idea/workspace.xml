@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c13ce4a-c6cb-4fa1-a481-738f57e43c55" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/handler.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +106,7 @@
       <workItem from="1569716585461" duration="6005000" />
       <workItem from="1569790176190" duration="12422000" />
       <workItem from="1569874879217" duration="11055000" />
-      <workItem from="1569897271906" duration="6383000" />
+      <workItem from="1569897271906" duration="6467000" />
     </task>
     <task id="LOCAL-00001" summary="First commit from from new machine">
       <created>1568173295476</created>
@@ -403,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569905330983</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Updates to handler">
+      <created>1569906027819</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1569906027819</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,7 +452,8 @@
     <MESSAGE value="Added read more, added .lead class" />
     <MESSAGE value="Update contact-us.js" />
     <MESSAGE value="Updates to scss, layout, contact page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updates to scss, layout, contact page" />
+    <MESSAGE value="Updates to handler" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates to handler" />
   </component>
   <component name="WindowStateProjectService">
     <state x="404" y="136" key="#Updates" timestamp="1569691595680">
@@ -485,10 +492,10 @@
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
     <state x="706" y="587" key="NewPhpFileDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1569801261760" />
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1569905346124">
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1569906040452">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1569905346124" />
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1569906040452" />
     <state x="538" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1569897272721">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
