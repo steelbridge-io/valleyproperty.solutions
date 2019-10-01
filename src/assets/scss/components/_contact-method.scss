@@ -21,3 +21,22 @@
 			margin: 0 0 (_size(element-margin) * 0.25) 0;
 		}
 	}
+
+	#contact-us-footer {
+		width: 100%;
+		display: inline-flex;
+		justify-content: center;
+
+		& section:nth-child(2) {
+			margin: 0 6em;
+		}
+	}
+
+	@include breakpoint(medium) {
+		#contact-us-footer {
+			display: initial;
+			& section:nth-child(2) {
+				margin: 0 auto;
+			}
+		}
+	}
