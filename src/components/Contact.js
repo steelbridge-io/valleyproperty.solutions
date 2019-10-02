@@ -3,7 +3,8 @@ import React from 'react'
 const Contact = (props) => (
     <section id="contact">
         <div className="inner">
-            <section>
+            <section id="contact-footer">
+                <h3>Contact Us</h3>
                 <form method="post" action="handler.php">
                     <div className="field half first">
                         <label htmlFor="name">Name</label>

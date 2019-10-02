@@ -26,7 +26,7 @@ const Landing = (props) => (
                         <h2>We Understand</h2>
                     </header>
                     <p>Selling your home can seem like a very intimidating task whether its your choice or not. We just want you to know that we're here to make your life easier and help guid you through this process.</p>
-                    <ul className="actions">
+                    <ul className="actions understand">
                         <li><Link to="/common-reasons-for-selling-your-home" className="button">Learn more | Reasons Why People Sell Their Home</Link></li>
                     </ul>
                 </div>

@@ -27,8 +27,8 @@ const Properties = (props) => (
 
                     <h3>About Wholesailing</h3>
                     <p>If you own your property free and clear and you want to sell it but don’t want to go through an agent, this option might be for you. </p>
-                    <ul className="actions">
-                        <li><Link to="/help/#wholesailing" className="button">Learn more about wholesailing</Link></li>
+                    <ul className="actions welike">
+                        <li><Link to="/help-services/#wholesailing" className="button">Learn more about wholesailing</Link></li>
                     </ul>
 
                 </div>

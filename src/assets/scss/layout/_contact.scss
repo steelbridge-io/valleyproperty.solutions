@@ -91,3 +91,14 @@
 			}
 		}
 	}
+#contact-footer > :first-child {
+	width: max-content;
+}
+#contact-footer > :first-child:after {
+	content: '';
+	background-color: #fff;
+	display: block;
+	height: 2px;
+	margin: 0.325em 0 0.5em 0;
+	width: calc(100% + 0.8em);;
+	}

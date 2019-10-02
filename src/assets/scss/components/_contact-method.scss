@@ -25,10 +25,10 @@
 	#contact-us-footer {
 		width: 100%;
 		display: inline-flex;
-		justify-content: center;
+		justify-content: space-around;
 
 		& section:nth-child(2) {
-			margin: 0 6em;
+			margin: 0;
 		}
 	}
 

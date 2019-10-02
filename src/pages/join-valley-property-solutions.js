@@ -32,7 +32,7 @@ const JoinVPS = (props) => (
                     <h3>Private Lender</h3>
                     <p>Are you interested in investing in real estate?!! You can invest your money with us and earn 1% of your total investment every month. Lets say you lent us $30,000 to invest into one of our deals, if the rehab takes 6 months to complete then after the property is sold you will receive your original investment of $30,000 + 6%($1,800).</p>
 
-                    <h4>Contact Us. Simply fill out our contatc for below or give us a call. We want to help you. We definitely want to make this work out. Call anytime.</h4>
+                    <h4>Contact Us. Simply fill out our contact form below or give us a call. We want to help you. We definitely want to make this work out. Call anytime.</h4>
                 </div>
             </section>
         </div>

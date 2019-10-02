@@ -2,13 +2,13 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import LayoutContact from '../components/layoutContact'
 import pic11 from '../assets/images/pic11.jpg'
-import piclogoleft from "../assets/images/VPS_Logo.png";
+import piclogoleft from "../assets/images/vps_logo_403x182.png"
 import SEO from '../components/seo'
 
 const ContactUs = (props) => (
 
     <LayoutContact>
-        <SEO />>
+        <SEO />
         <Helmet>
             <title>Valley Property Solutions | Contact Us</title>
             <meta name="description" content="Contact Valley Property Solutions, a realestate wholesale service, and take the first step in getting cash for your home." />
@@ -17,8 +17,8 @@ const ContactUs = (props) => (
         <div id="main">
 
             <section id="top-fp-cta">
+                <div className="inner"><img src={piclogoleft} alt="Valley Property Solutions" /></div>
                 <div className="inner contact-us">
-                    <div><img src={piclogoleft} alt="Valley Property Solutions" /></div>
                     <header className="major landing1">
                         <h1> Contact Us - Valley Property Solutions</h1>
                     </header>

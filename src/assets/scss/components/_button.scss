@@ -131,7 +131,9 @@
 		}
 	}
 
-	#two {
+	#two,
+	#one .actions.understand,
+	#one .actions.welike {
 		.button {
 			color: _palette(dark-txt);
 			box-shadow: inset 0 0 0 2px _palette(dark-txt);

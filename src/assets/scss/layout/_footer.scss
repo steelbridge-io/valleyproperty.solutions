@@ -26,6 +26,9 @@
 					padding-left: 0;
 				}
 			}
+			li a {
+				border-bottom: none;
+			}
 		}
 
 		@include breakpoint(xsmall) {
@@ -36,6 +39,9 @@
 					margin-left: 0;
 					padding-left: 0;
 					line-height: inherit;
+				}
+				li a {
+					border-bottom: none;
 				}
 			}
 		}
