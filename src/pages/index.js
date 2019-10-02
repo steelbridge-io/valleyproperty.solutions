@@ -33,11 +33,13 @@ class HomeIndex extends React.Component {
                 <div id="main">
                     <section id="top-fp-cta" className="tiles">
                         <div className="inner">
+                            <div className="col-10">
                             <header className="major landing1">
                                 <h1> Contact Us - Valley Property Solutions</h1>
                             </header>
                             <div class="content cta">
                                 <h2>(530) 953-5617&nbsp;&nbsp;‬|&nbsp;&nbsp;21975 Stoney Creek Pl Cottonwood, CA 96022</h2>
+                            </div>
                             </div>
                         </div>
                     </section>

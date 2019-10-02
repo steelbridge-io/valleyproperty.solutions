@@ -37,6 +37,10 @@
 			@include breakpoint(small) {
 				@include padding(3em, 0);
 				width: calc(100% - 3em);
+
+				img {
+					width: 100%;
+				}
 			}
 		}
 	}

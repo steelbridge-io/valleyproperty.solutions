@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c13ce4a-c6cb-4fa1-a481-738f57e43c55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.cache/dev-404-page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/components/_button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/components/_section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/components/_section.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,14 +115,7 @@
       <workItem from="1569906310643" duration="81000" />
       <workItem from="1569944454723" duration="6790000" />
       <workItem from="1569956577011" duration="50000" />
-      <workItem from="1569982049564" duration="721000" />
-    </task>
-    <task id="LOCAL-00005" summary="Progress. Added images.">
-      <created>1568178169207</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1568178169207</updated>
+      <workItem from="1569982049564" duration="2828000" />
     </task>
     <task id="LOCAL-00006" summary="Updated Contact us and image">
       <created>1568261280195</created>
@@ -460,7 +453,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569982324149</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Fixed contact us section on front page being clipped/blowing out on mobile.">
+      <created>1569982828321</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1569982828321</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,7 +481,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Updated Contact us and image" />
     <MESSAGE value="Theme updates. In progress. Added images." />
     <MESSAGE value="Added files" />
     <MESSAGE value="Updated scss &gt;&gt; banner :after color" />
@@ -506,7 +505,8 @@
     <MESSAGE value="Adding SEO" />
     <MESSAGE value="SEO" />
     <MESSAGE value="Remove node_modules" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove node_modules" />
+    <MESSAGE value="Fixed contact us section on front page being clipped/blowing out on mobile." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed contact us section on front page being clipped/blowing out on mobile." />
   </component>
   <component name="WindowStateProjectService">
     <state x="404" y="136" key="#Updates" timestamp="1569691595680">
