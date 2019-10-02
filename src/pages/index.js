@@ -31,7 +31,7 @@ class HomeIndex extends React.Component {
                 <Banner />
 
                 <div id="main">
-                    <section id="top-fp-cta">
+                    <section id="top-fp-cta" className="tiles">
                         <div className="inner">
                             <header className="major landing1">
                                 <h1> Contact Us - Valley Property Solutions</h1>
