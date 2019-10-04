@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c13ce4a-c6cb-4fa1-a481-738f57e43c55" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/components/_button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +62,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.SCSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/pages" />
-      <recent name="$PROJECT_DIR$/src/assets/images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/pages" />
       <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src/assets/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -112,21 +114,8 @@
       <workItem from="1569906310643" duration="81000" />
       <workItem from="1569944454723" duration="6790000" />
       <workItem from="1569956577011" duration="50000" />
-      <workItem from="1569982049564" duration="3958000" />
-    </task>
-    <task id="LOCAL-00007" summary="Theme updates. In progress. Added images.">
-      <created>1568267390490</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1568267390490</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Added files">
-      <created>1568267428464</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1568267428464</updated>
+      <workItem from="1569982049564" duration="4146000" />
+      <workItem from="1570158738840" duration="578000" />
     </task>
     <task id="LOCAL-00009" summary="Added files">
       <created>1568267448594</created>
@@ -457,7 +446,21 @@
       <option name="project" value="LOCAL" />
       <updated>1569986192390</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Fixed some buggy responsive CSS">
+      <created>1569987887588</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1569987887588</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Fixed some buggy responsive CSS">
+      <created>1569987971302</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1569987971302</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,15 +545,15 @@
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
     <state x="706" y="587" key="NewPhpFileDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1569949820048" />
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1569986210409">
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1569988027104">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1569986210409" />
-    <state x="538" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1569982050456">
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1569988027104" />
+    <state x="538" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1570158738877">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
     <state x="538" y="369" key="com.intellij.ide.util.TipDialog/3360.2100" timestamp="1569513124281" />
-    <state x="538" y="369" key="com.intellij.ide.util.TipDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1569982050456" />
+    <state x="538" y="369" key="com.intellij.ide.util.TipDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1570158738877" />
     <state x="558" y="481" width="667" height="422" key="find.popup" timestamp="1569903600170">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
