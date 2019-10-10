@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/BannerCommonreasons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/BannerJoinus.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/wholesailing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/wholesale-home-help-services.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/algolia.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/api-runner-browser-plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/api-runner-browser-plugins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/api-runner-ssr.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/api-runner-ssr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/babelState.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/babelState.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/dev-404-page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-browser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-node.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-node.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Banner.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Banner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BannerLanding.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BannerLanding.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about-valley-property-solutions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/common-reasons-for-selling-your-home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/contact-form-thank-you.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contact-form-thank-you.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/contact-us.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contact-us.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/help-services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/common-reasons-for-selling.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/join-valley-property-solutions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/join-valley-property-solutions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/projects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/properties-we-purchase-what-properties-catch-our-attention.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/properties-we-purchase.js" afterDir="false" />
-    </list>
+    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,14 +113,7 @@
       <workItem from="1569944454723" duration="6790000" />
       <workItem from="1570150370382" duration="633000" />
       <workItem from="1570647448652" duration="302000" />
-      <workItem from="1570647817587" duration="39793000" />
-    </task>
-    <task id="LOCAL-00009" summary="Added files">
-      <created>1568267448594</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1568267448594</updated>
+      <workItem from="1570647817587" duration="40041000" />
     </task>
     <task id="LOCAL-00010" summary="Added files">
       <created>1568268027387</created>
@@ -491,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569976406177</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Updates per Christian">
+      <created>1570741703230</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1570741703231</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -512,7 +479,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Theme updates. In progress. Added images." />
     <MESSAGE value="Added files" />
     <MESSAGE value="Updated scss &gt;&gt; banner :after color" />
     <MESSAGE value="Updated scss &gt;&gt; closed space between lines" />
@@ -537,7 +503,8 @@
     <MESSAGE value="Remove Public" />
     <MESSAGE value="Added pages" />
     <MESSAGE value="Updated images, CSS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated images, CSS" />
+    <MESSAGE value="Updates per Christian" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates per Christian" />
   </component>
   <component name="WindowStateProjectService">
     <state x="404" y="136" key="#Updates" timestamp="1569691595680">
