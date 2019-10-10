@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
-import BannerLanding from '../components/BannerLanding'
+import BannerLanding from '../components/BannerCommonreasons'
 import SEO from '../components/seo'
 
 import pic08 from '../assets/images/pic08.jpg'
@@ -13,8 +13,8 @@ const Landing = (props) => (
     <Layout>
         <SEO />
         <Helmet>
-            <title>Valley Property Solutions | Our Services - How We Can Help You</title>
-            <meta name="description" content="Find out how Valley Property Solutions can help you with selling your home fast. We work with you to find a buyer quickly." />
+            <title>Valley Property Solutions | Common Reasons For Selling Your Home</title>
+            <meta name="description" content="Discover reasons why people sell their homes. Understanding those reasons helps you determine your selling options. Sometimes it's wise to talk to an expert about how to sell your home in a way that is to your advantage." />
         </Helmet>
 
         <BannerLanding />
@@ -22,13 +22,14 @@ const Landing = (props) => (
         <div id="main">
             <section id="one">
                 <div className="inner">
-                    <header className="major landing1">
+                    { /*<header className="major landing1">
                         <h2>We Understand</h2>
                     </header>
-                    <p>Selling your home can seem like a very intimidating task whether its your choice or not. We just want you to know that we're here to make your life easier and help guid you through this process.</p>
-                    <ul className="actions understand">
-                        <li><Link to="/common-reasons-for-selling-your-home" className="button">Learn more | Reasons Why People Sell Their Home</Link></li>
-                    </ul>
+                    <p>Selling your home can seem like a very intimidating task whether its your choice or not. We just want you to know that we're here to make your life easier and help guide you through this process.</p> */}
+                    <header className="major landing1">
+                        <h2>Pre-Foreclosure</h2>
+                    </header>
+                    <p>There’s nothing more devastating than losing your home due to one of life's many unexpected curveballs. We understand that you need to get out of your situation fast, so we make it our goal to take some stress off your shoulders by making this process go as smooth as possible. We buy in “as Is” condition, make all cash offers and can close in as little as 2 weeks. Are there late payments hurting your credit score? No problem, in some situations were able to bring your current payment up to date so that it shows payment history on your credit.</p>
                 </div>
             </section>
             <section id="two" className="spotlights">
@@ -39,9 +40,9 @@ const Landing = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header id="weoffercash" className="major landing1">
-                                <h3>We Offer Cash</h3>
+                                <h3>Probate (Homeowner Has Passed)</h3>
                             </header>
-                            <p>Cash is King and in real estate this can not be more true, most of our offers are in cash… why? Because sellers love cash. Cash offers are the reason we can close in a short amount of time. All of our offers come with a proof of funds to ensure you we have the funding to purchase the property. Along with a proof of funds we also submit a good size down payment.</p>
+                            <p>The death of a loved one can be hard for anyone, and the last thing you want happening at this time is their debt falling on you. We can help you out by thoroughly explaining the states probate process so that you can make the right decision.</p>
                             <ul className="actions">
                                 <li><Link to="/contact-us" className="button">Learn more</Link></li>
                             </ul>
@@ -55,11 +56,11 @@ const Landing = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header id="wholesailing" className="major landing1">
-                                <h3>Wholesaling</h3>
+                                <h3>Its Time To Move</h3>
                             </header>
-                            <p>What is wholesaling real estate? Wholesaling when a homeowner who owns his/her property free and clear and wants to sell but they don’t want to go threw an agent. In this situation we can go to your house and give it an "as is” appraisal, we then see how much the property would be estimated around after its remodeled, based on that information we will make an offer to put your house under contract. Once under contract we can market the contract then resell the to another redeveloper. You do not have to be a licensed real estate agent to wholesale properties. The advantage to using this strategy is the seller pays no commission fees.</p>
+                            <p>Are you wanting to explore new opportunities, or just find find a new house? We understand that you want change and we can contribute to that by closing quickly and without a hassle.</p>
                             <ul className="actions">
-                                <li><Link to="/properties-we-purchase-what-properties-catch-our-attention" className="button">Learn more</Link></li>
+                                <li><Link to="/contact-us" className="button">Contact Us</Link></li>
                             </ul>
                         </div>
                     </div>
@@ -75,7 +76,7 @@ const Landing = (props) => (
                             </header>
                             <p>Need to sell your property fast? Give is a call today at (530) 446-2271</p>
                             <ul className="actions">
-                                <li><Link to="/contact-us" className="button">Learn more</Link></li>
+                                <li><Link to="/contact-us" className="button">Contact Us Here</Link></li>
                             </ul>
                         </div>
                     </div>

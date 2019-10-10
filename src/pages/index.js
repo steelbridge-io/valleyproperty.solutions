@@ -5,6 +5,7 @@ import Layout from '../components/layout'
 import Banner from '../components/Banner'
 import SEO from '../components/seo'
 
+
 import pic01 from '../assets/images/pic01.jpg'
 import pic02 from '../assets/images/pic02.jpg'
 import pic03 from '../assets/images/pic03.jpg'
@@ -38,7 +39,7 @@ class HomeIndex extends React.Component {
                                 <h1> Contact Us - Valley Property Solutions</h1>
                             </header>
                             <div class="content cta">
-                                <h2>(530) 953-5617&nbsp;&nbsp;‬|&nbsp;&nbsp;21975 Stoney Creek Pl Cottonwood, CA 96022</h2>
+                                <h2>‭(530) 446-2271‬&nbsp;&nbsp;‬|&nbsp;&nbsp;21975 Stoney Creek Pl Cottonwood, CA 96022</h2>
                             </div>
                             </div>
                         </div>
@@ -46,31 +47,31 @@ class HomeIndex extends React.Component {
                     <section id="one" className="tiles front-page">
                         <article id="article-one" style={{backgroundImage: `url(${pic01})`}}>
                             <header className="major landing2">
-                                <h3>We Understand  <span className="fa fa-check-circle-o"></span></h3>
-                                <p className="lead">Selling your home can seem like a very intimidating task whether its your choice or not. We just want you to know that we're <Link to="/help-services">...Read more</Link></p>
+                                <h3>Our Services  <span className="fa fa-check-circle-o"></span></h3>
+                                <p className="lead">How We Can Help You <Link to="/wholesale-home-help-services">...Read more</Link></p>
                             </header>
-                            <Link to="/help-services" className="link primary"></Link>
+                            <Link to="/wholesale-home-help-services" className="link primary"></Link>
                         </article>
                         <article id="article-two" style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
-                                <h3>We Offer Cash  <span className="fa fa-money"></span></h3>
-                                <p className="lead">Cash is King and in real estate this can not be more true, most of our offers are in cash… why? Because sellers love cash. Cash offers are the <Link to="/help-services/#weoffercash">...Read more</Link></p>
+                                <h3>Common Reasons For Selling  <span className="fa"></span></h3>
+                                <p className="lead">We Make Selling Easy <Link to="/common-reasons-for-selling">...Read more</Link></p>
                             </header>
-                            <Link to="/help-services/#weoffercash" className="link primary"></Link>
+                            <Link to="/common-reasons-for-selling" className="link primary"></Link>
                         </article>
                         <article id="article-three" style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
-                                <h3>Wholesaling  <span className="fa fa-life-ring"></span></h3>
-                                <p className="lead">What is wholesaling real estate? Wholesaling when a homeowner who owns his/her property free and clear and wants to sell but they don’t want to <Link to="/help-services/#wholesailing">...Read more</Link></p>
+                                <h3>Properties We Like  <span className="fa"></span></h3>
+                                <p className="lead">Find out about the types and kinds of properties we purchase <Link to="/properties-we-purchase">...Read more</Link></p>
                             </header>
-                            <Link to="/help-services/#wholesailing" className="link primary"></Link>
+                            <Link to="/properties-we-purchase" className="link primary"></Link>
                         </article>
                         <article id="article-four" style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
                                 <h3>Get An Offer  !!</h3>
-                                <p className="lead">Need to sell your property fast? Give is a call today at (530) 446-2271 <Link to="/help-services/#getanoffer">...Read more</Link></p>
+                                <p className="lead">Need to sell your property fast? Give is a call today at (530) 446-2271 <Link to="/wholesale-home-help-services/#getanoffer">...Read more</Link></p>
                             </header>
-                            <Link to="/help-services/#getanoffer" className="link primary"></Link>
+                            <Link to="/wholesale-home-help-services/#getanoffer" className="link primary"></Link>
                         </article>
                         <article id="article-five"  style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
@@ -82,9 +83,9 @@ class HomeIndex extends React.Component {
                         <article id="article-six" style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
                                 <h3>About Valley Property Solutions  <span className="fa fa-graduation-cap"></span></h3>
-                                <p className="lead">Our philosophy. Our mission <Link to="/properties-we-purchase-what-properties-catch-our-attention">...Read more</Link></p>
+                                <p className="lead">Our philosophy. Our mission <Link to="/about-valley-property-solutions">...Read more</Link></p>
                             </header>
-                            <Link to="/properties-we-purchase-what-properties-catch-our-attention" className="link primary"></Link>
+                            <Link to="/about-valley-property-solutions" className="link primary"></Link>
                         </article>
                     </section>
                     <section id="two">

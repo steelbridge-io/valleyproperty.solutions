@@ -10,7 +10,7 @@ const Generic = (props) => (
         <SEO />
         <Helmet>
             <title>Valley Property Solutions | Our Projects</title>
-            <meta name="description" content="Discover what Valley Property Solutions can do in helping you with wholesale property sales, home renovation and remodel. Review our projects here." />
+            <meta name="description" content="Take a look at our projects. See what we have been up to. Review our projects and how we sell homes fast." />
         </Helmet>
 
         <div id="main" className="alt">

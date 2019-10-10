@@ -4,10 +4,10 @@ const BannerLanding = (props) => (
     <section id="banner" className="style2">
         <div className="inner">
             <header className="major landing2">
-                <h1>Our Services</h1>
+                <h1>Common Reasons For Selling Your Home</h1>
             </header>
             <div className="content">
-                <h2>How We Can Help You</h2>
+                <h2>We Make Selling Easy</h2>
             </div>
         </div>
     </section>

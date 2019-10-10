@@ -1,4 +1,7 @@
 var plugins = [{
+      plugin: require('/Users/chrisparsons/git/valleyproperty.solutions/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      options: {"plugins":[]},
+    },{
       plugin: require('/Users/chrisparsons/git/valleyproperty.solutions/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
@@ -7,9 +10,6 @@ var plugins = [{
     },{
       plugin: require('/Users/chrisparsons/git/valleyproperty.solutions/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[],"trackingId":"UA-149208529-1","head":true,"pageTransitionDelay":0,"optimizeId":"GTM-P36H4PR","experimentId":"R_HVO5A8Q7iJQYtxZzLhDQ","sampleRate":5,"siteSpeedSampleRate":10,"cookieDomain":"valleyproperty.solutions"},
-    },{
-      plugin: require('/Users/chrisparsons/git/valleyproperty.solutions/node_modules/gatsby-plugin-offline/gatsby-ssr'),
-      options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [

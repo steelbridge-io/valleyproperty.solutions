@@ -11,7 +11,7 @@ const ContactUs = (props) => (
         <SEO />
         <Helmet>
             <title>Valley Property Solutions | Contact Us</title>
-            <meta name="description" content="Contact Valley Property Solutions, a realestate wholesale service, and take the first step in getting cash for your home." />
+            <meta name="description" content="Contact Valley Property Solutions, a realestate wholesale service. Take the first step in getting cash for your home." />
             <script type="application/ld+json">{JSON.stringify(schemaOrgJSONLD)}</script>
         </Helmet>
         <div id="main">
@@ -23,7 +23,7 @@ const ContactUs = (props) => (
                         <h1> Contact Us - Valley Property Solutions</h1>
                     </header>
                     <div className="content cta">
-                        <h2>(530) 953-5617&nbsp;&nbsp;‬|&nbsp;&nbsp;21975 Stoney Creek Pl Cottonwood, CA 96022</h2>
+                        <h2>‭(530) 446-2271‬&nbsp;&nbsp;‬|&nbsp;&nbsp;21975 Stoney Creek Pl Cottonwood, CA 96022</h2>
                     </div>
                 </div>
             </section>

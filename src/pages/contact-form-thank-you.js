@@ -22,7 +22,7 @@ const Generic = (props) => (
                     </header>
                     <div className="image main about-img"><img src={pic11} alt="Valley Property Solutions" /></div>
                     <h2>Thanks for contacting us. We will be in touch with your soon.</h2>
-                    <p>In the mean time, you can cal us anytime at <a href="tel:15309535617‬">(530) 953-5617</a></p>
+                    <p>In the mean time, you can call us anytime at <a href="tel:15304462271‬‬‬">(530) 446-2271‬‬</a></p>
                 </div>
             </section>
         </div>

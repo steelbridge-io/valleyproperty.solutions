@@ -1,10 +1,16 @@
+const queries = require("./src/utils/algolia")
+require("dotenv").config()
+
 module.exports = {
   siteMetadata: {
     title: "Valley Property Solutions",
     author: "Chris Parsons",
     description: "N. California Wholesale Realesate Investing"
   },
+  pathPrefix: `/gatsby-plugin-elasticlunr-search`,
   plugins: [
+    'gatsby-plugin-sass',
+    'gatsby-plugin-offline',
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-plugin-manifest`,
@@ -31,8 +37,5 @@ module.exports = {
         cookieDomain: "valleyproperty.solutions",
       },
     },
-    'gatsby-plugin-sass',
-    'gatsby-plugin-offline'
   ],
 }
-
