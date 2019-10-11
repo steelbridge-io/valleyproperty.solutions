@@ -8,6 +8,8 @@ import SEO from '../components/seo'
 import pic08 from '../assets/images/pic08.jpg'
 import pic09 from '../assets/images/pic09.jpg'
 import pic10 from '../assets/images/pic10.jpg'
+import foreClosure from '../assets/images/foreClosure.jpg'
+import probate from '../assets/images/probate.jpg'
 
 const Landing = (props) => (
     <Layout>
@@ -20,22 +22,41 @@ const Landing = (props) => (
         <BannerLanding />
 
         <div id="main">
+
             <section id="one">
                 <div className="inner">
-                    { /*<header className="major landing1">
-                        <h2>We Understand</h2>
-                    </header>
-                    <p>Selling your home can seem like a very intimidating task whether its your choice or not. We just want you to know that we're here to make your life easier and help guide you through this process.</p> */}
                     <header className="major landing1">
-                        <h2>Pre-Foreclosure</h2>
+                        <h2>There can be many reasons to sell your home</h2>
                     </header>
-                    <p>There’s nothing more devastating than losing your home due to one of life's many unexpected curveballs. We understand that you need to get out of your situation fast, so we make it our goal to take some stress off your shoulders by making this process go as smooth as possible. We buy in “as Is” condition, make all cash offers and can close in as little as 2 weeks. Are there late payments hurting your credit score? No problem, in some situations were able to bring your current payment up to date so that it shows payment history on your credit.</p>
+                    <p>From the inspiration to move elswhere or upgrade, to the tougher reasons, we can help you with the details of finding a buyer quickly.</p>
                 </div>
             </section>
             <section id="two" className="spotlights">
                 <section>
                     <Link to="/contact-us" className="image">
-                        <img src={pic08} alt="Valley Property Solutions" />
+                        <img src={foreClosure} alt="Valley Property Solutions" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header id="foreclosure" className="major landing1">
+                                <h3>Pre-Foreclosure</h3>
+                            </header>
+                            <p>There’s nothing more devastating than losing your home due to one of life's many unexpected curveballs. We understand that you need to get out of your situation fast, so we make it our goal to take some stress off your shoulders by making this process go as smooth as possible. We buy in “as Is” condition, make all cash offers and can close in as little as 2 weeks. Are there late payments hurting your credit score? No problem, in some situations were able to bring your current payment up to date so that it shows payment history on your credit.</p>
+                            <ul className="actions">
+                                <li><Link to="/contact-us" className="button">Learn more</Link></li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+                {/*<div className="inner">
+                    <header className="major landing1">
+                        <h2>Pre-Foreclosure</h2>
+                    </header>
+                    <p>There’s nothing more devastating than losing your home due to one of life's many unexpected curveballs. We understand that you need to get out of your situation fast, so we make it our goal to take some stress off your shoulders by making this process go as smooth as possible. We buy in “as Is” condition, make all cash offers and can close in as little as 2 weeks. Are there late payments hurting your credit score? No problem, in some situations were able to bring your current payment up to date so that it shows payment history on your credit.</p>
+                </div>*/}
+                <section>
+                    <Link to="/contact-us" className="image">
+                        <img src={probate} alt="Valley Property Solutions" />
                     </Link>
                     <div className="content">
                         <div className="inner">
