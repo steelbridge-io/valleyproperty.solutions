@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/images/foreClosure.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/pic09-og.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/probate.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/pic09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/pic09.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/common-reasons-for-selling.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/common-reasons-for-selling.js" afterDir="false" />
-    </list>
+    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,27 +114,6 @@
       <workItem from="1570647448652" duration="302000" />
       <workItem from="1570647817587" duration="40274000" />
       <workItem from="1570815563457" duration="452000" />
-    </task>
-    <task id="LOCAL-00016" summary="Updating colors of tiles and sections">
-      <created>1569536549821</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1569536549821</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Updating colors of fonts">
-      <created>1569542176558</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1569542176558</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Updating colors of fonts">
-      <created>1569542835839</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1569542835839</updated>
     </task>
     <task id="LOCAL-00019" summary="Updating colors of fonts">
       <created>1569547147714</created>
@@ -466,7 +437,28 @@
       <option name="project" value="LOCAL" />
       <updated>1570817899882</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Adding images to common-reasons-for-selling.js">
+      <created>1570821124255</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1570821124255</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Adding images to common-reasons-for-selling.js">
+      <created>1570821131273</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1570821131273</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Adding images to common-reasons-for-selling.js">
+      <created>1570821215702</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1570821215702</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,7 +479,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Updated scss &gt;&gt; closed space between lines" />
     <MESSAGE value="Removed list of towns in banner section" />
     <MESSAGE value="Updated tile colors to shades of gray." />
     <MESSAGE value="Added drk-text to _palette" />
@@ -512,7 +503,8 @@
     <MESSAGE value="Updates per Christian" />
     <MESSAGE value="Added package.json" />
     <MESSAGE value="Added hero to common reasons page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added hero to common reasons page" />
+    <MESSAGE value="Adding images to common-reasons-for-selling.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding images to common-reasons-for-selling.js" />
   </component>
   <component name="WindowStateProjectService">
     <state x="404" y="136" key="#Updates" timestamp="1569691595680">
