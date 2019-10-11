@@ -1,7 +1,6 @@
 # Project dependencies
 /public/*
 yarn-error.log
-package-lock.json
 yarn.lock
 # Build directory
 .DS_Store

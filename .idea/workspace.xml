@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="" />
+    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,14 +116,7 @@
       <workItem from="1570150370382" duration="633000" />
       <workItem from="1570647448652" duration="302000" />
       <workItem from="1570647817587" duration="40274000" />
-      <workItem from="1570815563457" duration="358000" />
-    </task>
-    <task id="LOCAL-00013" summary="Removed list of towns in banner section">
-      <created>1569522689181</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1569522689182</updated>
+      <workItem from="1570815563457" duration="452000" />
     </task>
     <task id="LOCAL-00014" summary="Updated tile colors to shades of gray.">
       <created>1569524711005</created>
@@ -459,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570815872703</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Added package.json">
+      <created>1570815944779</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1570815944779</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
