@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -117,14 +116,7 @@
       <workItem from="1570150370382" duration="633000" />
       <workItem from="1570647448652" duration="302000" />
       <workItem from="1570647817587" duration="40274000" />
-      <workItem from="1570815563457" duration="14000" />
-    </task>
-    <task id="LOCAL-00011" summary="Updated scss &gt;&gt; banner :after color">
-      <created>1569521977848</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1569521977848</updated>
+      <workItem from="1570815563457" duration="106000" />
     </task>
     <task id="LOCAL-00012" summary="Updated scss &gt;&gt; closed space between lines">
       <created>1569522046535</created>
@@ -462,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570741889244</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Added package.json">
+      <created>1570815613235</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1570815613235</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -483,7 +482,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Added files" />
     <MESSAGE value="Updated scss &gt;&gt; banner :after color" />
     <MESSAGE value="Updated scss &gt;&gt; closed space between lines" />
     <MESSAGE value="Removed list of towns in banner section" />
@@ -508,7 +506,8 @@
     <MESSAGE value="Added pages" />
     <MESSAGE value="Updated images, CSS" />
     <MESSAGE value="Updates per Christian" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updates per Christian" />
+    <MESSAGE value="Added package.json" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added package.json" />
   </component>
   <component name="WindowStateProjectService">
     <state x="404" y="136" key="#Updates" timestamp="1569691595680">
