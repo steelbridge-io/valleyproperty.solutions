@@ -10,6 +10,7 @@ import pic09 from '../assets/images/pic09.jpg'
 import pic10 from '../assets/images/pic10.jpg'
 import foreClosure from '../assets/images/foreClosure.jpg'
 import probate from '../assets/images/probate.jpg'
+import getanoffer from '../assets/images/getanoffer.jpg'
 
 const Landing = (props) => (
     <Layout>
@@ -48,12 +49,6 @@ const Landing = (props) => (
                         </div>
                     </div>
                 </section>
-                {/*<div className="inner">
-                    <header className="major landing1">
-                        <h2>Pre-Foreclosure</h2>
-                    </header>
-                    <p>There’s nothing more devastating than losing your home due to one of life's many unexpected curveballs. We understand that you need to get out of your situation fast, so we make it our goal to take some stress off your shoulders by making this process go as smooth as possible. We buy in “as Is” condition, make all cash offers and can close in as little as 2 weeks. Are there late payments hurting your credit score? No problem, in some situations were able to bring your current payment up to date so that it shows payment history on your credit.</p>
-                </div>*/}
                 <section>
                     <Link to="/contact-us" className="image">
                         <img src={probate} alt="Valley Property Solutions" />
@@ -88,7 +83,7 @@ const Landing = (props) => (
                 </section>
                 <section>
                     <Link to="/contact-us" className="image">
-                        <img src={pic10} alt="Valley Property Solutions" />
+                        <img src={getanoffer} alt="Valley Property Solutions" />
                     </Link>
                     <div className="content">
                         <div className="inner">

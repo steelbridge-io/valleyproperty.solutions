@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="" />
+    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/images/agents.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/getanoffer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/heroHome.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scss/layout/_banner.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/layout/_banner.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/common-reasons-for-selling.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/common-reasons-for-selling.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,20 +124,7 @@
       <workItem from="1570647448652" duration="302000" />
       <workItem from="1570647817587" duration="40274000" />
       <workItem from="1570815563457" duration="452000" />
-    </task>
-    <task id="LOCAL-00019" summary="Updating colors of fonts">
-      <created>1569547147714</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1569547147714</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Updating colors of fonts">
-      <created>1569547181019</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1569547181019</updated>
+      <workItem from="1570844517295" duration="2021000" />
     </task>
     <task id="LOCAL-00021" summary="Updated build">
       <created>1569547824624</created>
@@ -458,7 +455,21 @@
       <option name="project" value="LOCAL" />
       <updated>1570821215702</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Adding images to common-reasons-for-selling.js">
+      <created>1570821388961</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1570821388961</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Adding images to common-reasons-for-selling.js">
+      <created>1570821423118</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1570821423118</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,15 +554,15 @@
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
     <state x="706" y="587" key="NewPhpFileDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1569949820048" />
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1570821409744">
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1570821433430">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1570821409744" />
-    <state x="538" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1569944456804">
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1570821433430" />
+    <state x="538" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1570844522422">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
     <state x="538" y="369" key="com.intellij.ide.util.TipDialog/3360.2100" timestamp="1569513124281" />
-    <state x="538" y="369" key="com.intellij.ide.util.TipDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1569944456804" />
+    <state x="538" y="369" key="com.intellij.ide.util.TipDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1570844522422" />
     <state x="558" y="481" width="667" height="422" key="find.popup" timestamp="1569903600170">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
