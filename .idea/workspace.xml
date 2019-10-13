@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/images/agents.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/getanoffer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/heroHome.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/assets.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/joinourteam.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/ourServices.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/ourServicesFront.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/privatelender.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/weOfferCash.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/dev-404-page.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/scss/layout/_banner.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/layout/_banner.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/common-reasons-for-selling.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/common-reasons-for-selling.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BannerJoinus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BannerJoinus.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/join-valley-property-solutions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/join-valley-property-solutions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/wholesale-home-help-services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/wholesale-home-help-services.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,21 +131,8 @@
       <workItem from="1570647448652" duration="302000" />
       <workItem from="1570647817587" duration="40274000" />
       <workItem from="1570815563457" duration="452000" />
-      <workItem from="1570844517295" duration="2021000" />
-    </task>
-    <task id="LOCAL-00021" summary="Updated build">
-      <created>1569547824624</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1569547824624</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Updated build">
-      <created>1569547852154</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1569547852154</updated>
+      <workItem from="1570844517295" duration="2264000" />
+      <workItem from="1570931783894" duration="3127000" />
     </task>
     <task id="LOCAL-00023" summary="Added content">
       <created>1569551641381</created>
@@ -469,7 +463,21 @@
       <option name="project" value="LOCAL" />
       <updated>1570821423118</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="New images">
+      <created>1570856920438</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1570856920438</updated>
+    </task>
+    <task id="LOCAL-00071" summary="New images">
+      <created>1570856926785</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1570856926785</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,7 +498,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Removed list of towns in banner section" />
     <MESSAGE value="Updated tile colors to shades of gray." />
     <MESSAGE value="Added drk-text to _palette" />
     <MESSAGE value="Updating colors of tiles and sections" />
@@ -515,7 +522,8 @@
     <MESSAGE value="Added package.json" />
     <MESSAGE value="Added hero to common reasons page" />
     <MESSAGE value="Adding images to common-reasons-for-selling.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding images to common-reasons-for-selling.js" />
+    <MESSAGE value="New images" />
+    <option name="LAST_COMMIT_MESSAGE" value="New images" />
   </component>
   <component name="WindowStateProjectService">
     <state x="404" y="136" key="#Updates" timestamp="1569691595680">
@@ -558,11 +566,11 @@
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
     <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1570821433430" />
-    <state x="538" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1570844522422">
+    <state x="538" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1570931793856">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
     <state x="538" y="369" key="com.intellij.ide.util.TipDialog/3360.2100" timestamp="1569513124281" />
-    <state x="538" y="369" key="com.intellij.ide.util.TipDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1570844522422" />
+    <state x="538" y="369" key="com.intellij.ide.util.TipDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1570931793856" />
     <state x="558" y="481" width="667" height="422" key="find.popup" timestamp="1569903600170">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>

@@ -5,9 +5,10 @@ import Layout from '../components/layout'
 import BannerLanding from '../components/BannerJoinus'
 import SEO from '../components/seo'
 
-import pic08 from '../assets/images/pic08.jpg'
-import pic09 from '../assets/images/pic09.jpg'
-import pic10 from '../assets/images/pic10.jpg'
+import assets from '../assets/images/assets.jpg'
+import agents from '../assets/images/agents.jpg'
+import privatelender from '../assets/images/privatelender.jpg'
+import joinourteam from '../assets/images/joinourteam.jpg'
 
 const Landing = (props) => (
     <Layout>
@@ -23,15 +24,28 @@ const Landing = (props) => (
             <section id="one">
                 <div className="inner">
                     <header className="major landing1">
-                        <h2>Assets</h2>
+                        <h2>Here's a few reasons why working with us can be a win/win</h2>
                     </header>
-                    <p>We are looking to build a team of assets, whether it be a group such as a company or individuals, we need you to bring value to the table and in return we’ll do the same. There’s many perks to working with us, we love to pay our hard working contractors on-time for the benchmarks they complete to our specs. We will be providing constant work since our business plan is to start renovations on multiple houses within the next few months. For each property we provide a detailed scope of work that explains all the renovations we would like done to the property such as what we want demoed, if we want anything added/moved, new appliances, color scheme, etc. also listed on the scope of work Is an estimated cost for what document details.</p>
+                    <p>We want to invest in the future. Your future. How about you?</p>
                 </div>
             </section>
             <section id="two" className="spotlights">
                 <section>
                     <Link to="/contact-us" className="image">
-                        <img src={pic08} alt="Valley Property Solutions" />
+                        <img src={assets} alt="Valley Property Solutions" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header id="assets-section" className="major landing1">
+                                <h3>Assets</h3>
+                            </header>
+                            <p>We are looking to build a team of assets, whether it be a group such as a company or individuals, we need you to bring value to the table and in return we’ll do the same. There’s many perks to working with us, we love to pay our hard working contractors on-time for the benchmarks they complete to our specs. We will be providing constant work since our business plan is to start renovations on multiple houses within the next few months. For each property we provide a detailed scope of work that explains all the renovations we would like done to the property such as what we want demoed, if we want anything added/moved, new appliances, color scheme, etc. also listed on the scope of work Is an estimated cost for what document details.</p>
+                        </div>
+                    </div>
+                </section>
+                <section>
+                    <Link to="/contact-us" className="image">
+                        <img src={agents} alt="Valley Property Solutions" />
                     </Link>
                     <div className="content">
                         <div className="inner">
@@ -44,7 +58,7 @@ const Landing = (props) => (
                 </section>
                 <section>
                     <Link to="/contact-us" className="image">
-                        <img src={pic09} alt="Valley Property Solutions" />
+                        <img src={privatelender} alt="Valley Property Solutions" />
                     </Link>
                     <div className="content">
                         <div className="inner">
@@ -57,7 +71,7 @@ const Landing = (props) => (
                 </section>
                 <section>
                     <Link to="/contact-us" className="image">
-                        <img src={pic10} alt="Valley Property Solutions" />
+                        <img src={joinourteam} alt="Valley Property Solutions" />
                     </Link>
                     <div className="content">
                         <div className="inner">

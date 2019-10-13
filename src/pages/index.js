@@ -12,6 +12,7 @@ import pic03 from '../assets/images/pic03.jpg'
 import pic04 from '../assets/images/pic04.jpg'
 import pic05 from '../assets/images/pic05.jpg'
 import pic06 from '../assets/images/pic06.jpg'
+import ourServicesFront from '../assets/images/ourServicesFront.jpg'
 
 class HomeIndex extends React.Component {
     render() {
@@ -45,9 +46,9 @@ class HomeIndex extends React.Component {
                         </div>
                     </section>
                     <section id="one" className="tiles front-page">
-                        <article id="article-one" style={{backgroundImage: `url(${pic01})`}}>
+                        <article id="article-one" style={{backgroundImage: `url(${ourServicesFront})`}}>
                             <header className="major landing2">
-                                <h3>Our Services  <span className="fa fa-check-circle-o"></span></h3>
+                                <h3>Our Services  <span className="fa"></span></h3>
                                 <p className="lead">How We Can Help You <Link to="/wholesale-home-help-services">...Read more</Link></p>
                             </header>
                             <Link to="/wholesale-home-help-services" className="link primary"></Link>
