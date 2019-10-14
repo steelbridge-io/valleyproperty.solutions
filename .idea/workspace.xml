@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.cache/dev-404-page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/commonReasonsfrontpage.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/getOfferfront.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/propertiesWelike.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/dev-404-page.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,21 +123,7 @@
       <workItem from="1570931783894" duration="3529000" />
       <workItem from="1570989743308" duration="263000" />
       <workItem from="1571071215703" duration="2535000" />
-      <workItem from="1571091940231" duration="1299000" />
-    </task>
-    <task id="LOCAL-00032" summary="Removed Yay">
-      <created>1569727006658</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1569727006658</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Removed Yay">
-      <created>1569727013543</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1569727013543</updated>
+      <workItem from="1571091940231" duration="1521000" />
     </task>
     <task id="LOCAL-00034" summary="Removed Yay">
       <created>1569727178466</created>
@@ -473,7 +454,21 @@
       <option name="project" value="LOCAL" />
       <updated>1571077546169</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Updating images">
+      <created>1571094000767</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1571094000767</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Updating images">
+      <created>1571094009331</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1571094009331</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,7 +489,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Updating colors of tiles and sections" />
     <MESSAGE value="Updating colors of fonts" />
     <MESSAGE value="Updated build" />
     <MESSAGE value="Added content" />
@@ -519,7 +513,8 @@
     <MESSAGE value="New images" />
     <MESSAGE value="Added images" />
     <MESSAGE value="Adding more images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding more images" />
+    <MESSAGE value="Updating images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating images" />
   </component>
   <component name="WindowStateProjectService">
     <state x="404" y="136" key="#Updates" timestamp="1569691595680">
