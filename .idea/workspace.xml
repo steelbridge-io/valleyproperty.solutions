@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.cache/dev-404-page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/weUnderstand.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/wholeSailing.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/wholesailingGeneric.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/dev-404-page.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/wholesailing.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/wholesailing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/wholesale-home-help-services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/wholesale-home-help-services.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,28 +122,7 @@
       <workItem from="1570844517295" duration="2264000" />
       <workItem from="1570931783894" duration="3529000" />
       <workItem from="1570989743308" duration="263000" />
-      <workItem from="1571071215703" duration="1952000" />
-    </task>
-    <task id="LOCAL-00027" summary="New pages, layout, scss">
-      <created>1569696444340</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1569696444340</updated>
-    </task>
-    <task id="LOCAL-00028" summary="added about page, linktargets">
-      <created>1569726567203</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1569726567203</updated>
-    </task>
-    <task id="LOCAL-00029" summary="added about page, linktargets">
-      <created>1569726578909</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1569726578909</updated>
+      <workItem from="1571071215703" duration="2459000" />
     </task>
     <task id="LOCAL-00030" summary="added about page, linktargets">
       <created>1569726622231</created>
@@ -474,7 +446,28 @@
       <option name="project" value="LOCAL" />
       <updated>1570942353051</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Adding more images">
+      <created>1571077067891</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1571077067892</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Adding more images">
+      <created>1571077073796</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1571077073796</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Adding more images">
+      <created>1571077080083</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1571077080083</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -495,7 +488,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Added drk-text to _palette" />
     <MESSAGE value="Updating colors of tiles and sections" />
     <MESSAGE value="Updating colors of fonts" />
     <MESSAGE value="Updated build" />
@@ -520,7 +512,8 @@
     <MESSAGE value="Adding images to common-reasons-for-selling.js" />
     <MESSAGE value="New images" />
     <MESSAGE value="Added images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added images" />
+    <MESSAGE value="Adding more images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding more images" />
   </component>
   <component name="WindowStateProjectService">
     <state x="404" y="136" key="#Updates" timestamp="1569691595680">
