@@ -29,19 +29,19 @@ const Contact = (props) => (
                     <div className="contact-method">
                         <span className="icon alt fa-envelope"></span>
                         <h3>Email</h3>
-                        <a href="#">contact@valleyproperty.solutions</a>
+                        <a href="mailto:contact@valleyproperty.solutions" title="click to send contact email to Valley Property Solutions">contact@valleyproperty.solutions</a>
                     </div>
                 </section>
                 <section>
                     <div className="contact-method">
                         <span className="icon alt fa-phone"></span>
                         <h3>Business Phone</h3>
-                        <span>‭(530) 446-2271‬‬</span>
+                        <span><a href="tel:15304462271" title="Business telephone number for Valley Property Solutions">‭(530) 446-2271</a>‬‬</span>
                     </div>
                     <div className="contact-method">
                         <span className="icon alt fa-phone"></span>
                         <h3>Cell Phone</h3>
-                        <span>(530) 953-5617</span>
+                        <span><a href="tel:15309535617" title="Cell Phone Number To Call Valley Property Solutions">(530) 953-5617</a></span>
                     </div>
                 </section>
                 <section>

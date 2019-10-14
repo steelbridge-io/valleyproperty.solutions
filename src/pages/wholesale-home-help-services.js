@@ -8,6 +8,10 @@ import SEO from '../components/seo'
 import pic09 from '../assets/images/pic09.jpg'
 import pic10 from '../assets/images/pic10.jpg'
 import weOfferCash from '../assets/images/weOfferCash.jpg'
+import weUnderstand from '../assets/images/weUnderstand.jpg'
+import getanoffer from '../assets/images/getanoffer.jpg'
+import wholeSailing from '../assets/images/wholeSailing.jpg'
+
 
 const Landing = (props) => (
     <Layout>
@@ -23,15 +27,28 @@ const Landing = (props) => (
             <section id="one">
                 <div className="inner">
                     <header className="major landing1">
-                        <h2>We Understand</h2>
+                        <h2>We Are Leaders</h2>
                     </header>
-                    <p>Selling your home can seem like a very intimidating task whether its your choice or not. We just want you to know that we're here to make your life easier and help guid you through this process.</p>
-                    {/*<ul className="actions understand">
-                        <li><Link to="/common-reasons-for-selling-your-home" className="button">Learn more | Reasons Why People Sell Their Home</Link></li>
-                    </ul> */}
+                    <p>To build a relaible and prdicatble home sales process, Valley Property Solutions helps you; makes the effort; and fosters collaberation amongst investors interested in your home. Here are some ways we can help you:</p>
                 </div>
             </section>
             <section id="two" className="spotlights">
+                <section>
+                    <Link to="/contact-us" className="image">
+                        <img src={weUnderstand} alt="Valley Property Solutions" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header id="weunderstand" className="major landing1">
+                                <h3>We Understand</h3>
+                            </header>
+                            <p>Selling your home can seem like a very intimidating task whether its your choice or not. We just want you to know that we're here to make your life easier and help guid you through this process.</p>
+                            <ul className="actions">
+                                <li><Link to="/contact-us" className="button">Learn more</Link></li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
                 <section>
                     <Link to="/contact-us" className="image">
                         <img src={weOfferCash} alt="Valley Property Solutions" />
@@ -50,7 +67,7 @@ const Landing = (props) => (
                 </section>
                 <section>
                     <Link to="/contact-us" className="image">
-                        <img src={pic09} alt="Valley Property Solutions" />
+                        <img src={wholeSailing} alt="Valley Property Solutions" />
                     </Link>
                     <div className="content">
                         <div className="inner">
@@ -66,7 +83,7 @@ const Landing = (props) => (
                 </section>
                 <section>
                     <Link to="/contact-us" className="image">
-                        <img src={pic10} alt="Valley Property Solutions" />
+                        <img src={getanoffer} alt="Valley Property Solutions" />
                     </Link>
                     <div className="content">
                         <div className="inner">
