@@ -7,12 +7,13 @@ import SEO from '../components/seo'
 
 
 import pic01 from '../assets/images/pic01.jpg'
-import pic02 from '../assets/images/pic02.jpg'
-import pic03 from '../assets/images/pic03.jpg'
 import pic04 from '../assets/images/pic04.jpg'
 import pic05 from '../assets/images/pic05.jpg'
 import pic06 from '../assets/images/pic06.jpg'
 import ourServicesFront from '../assets/images/ourServicesFront.jpg'
+import commonReasonsfrontpage from  '../assets/images/commonReasonsfrontpage.jpg'
+import propertiesWelike from '../assets/images/propertiesWelike.jpg'
+import getOfferfront from '../assets/images/getOfferfront.jpg'
 
 class HomeIndex extends React.Component {
     render() {
@@ -53,23 +54,23 @@ class HomeIndex extends React.Component {
                             </header>
                             <Link to="/wholesale-home-help-services" className="link primary"></Link>
                         </article>
-                        <article id="article-two" style={{backgroundImage: `url(${pic02})`}}>
+                        <article id="article-two" style={{backgroundImage: `url(${commonReasonsfrontpage})`}}>
                             <header className="major">
                                 <h3>Common Reasons For Selling  <span className="fa"></span></h3>
                                 <p className="lead">We Make Selling Easy <Link to="/common-reasons-for-selling">...Read more</Link></p>
                             </header>
                             <Link to="/common-reasons-for-selling" className="link primary"></Link>
                         </article>
-                        <article id="article-three" style={{backgroundImage: `url(${pic03})`}}>
+                        <article id="article-three" style={{backgroundImage: `url(${propertiesWelike})`}}>
                             <header className="major">
                                 <h3>Properties We Like  <span className="fa"></span></h3>
                                 <p className="lead">Find out about the types and kinds of properties we purchase <Link to="/properties-we-purchase">...Read more</Link></p>
                             </header>
                             <Link to="/properties-we-purchase" className="link primary"></Link>
                         </article>
-                        <article id="article-four" style={{backgroundImage: `url(${pic04})`}}>
+                        <article id="article-four" style={{backgroundImage: `url(${getOfferfront})`}}>
                             <header className="major">
-                                <h3>Get An Offer  !!</h3>
+                                <h3>Get An Offer</h3>
                                 <p className="lead">Need to sell your property fast? Give is a call today at (530) 446-2271 <Link to="/wholesale-home-help-services/#getanoffer">...Read more</Link></p>
                             </header>
                             <Link to="/wholesale-home-help-services/#getanoffer" className="link primary"></Link>
