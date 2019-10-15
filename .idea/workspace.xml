@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.cache/dev-404-page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/joinOurTeamfront.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,42 +119,7 @@
       <workItem from="1570989743308" duration="263000" />
       <workItem from="1571071215703" duration="2535000" />
       <workItem from="1571091940231" duration="1563000" />
-      <workItem from="1571102634093" duration="750000" />
-    </task>
-    <task id="LOCAL-00036" summary="Added read more, added .lead class">
-      <created>1569792321077</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1569792321077</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Added read more, added .lead class">
-      <created>1569807138131</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1569807138131</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Added read more, added .lead class">
-      <created>1569866919451</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1569866919451</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Update contact-us.js">
-      <created>1569867076714</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1569867076714</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Updates to scss, layout, contact page">
-      <created>1569905228060</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1569905228060</updated>
+      <workItem from="1571102634093" duration="1084000" />
     </task>
     <task id="LOCAL-00041" summary="Updates to scss, layout, contact page">
       <created>1569905315412</created>
@@ -472,7 +429,42 @@
       <option name="project" value="LOCAL" />
       <updated>1571094110440</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Image updates">
+      <created>1571105799452</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1571105799453</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Image updates">
+      <created>1571105805342</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1571105805342</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Image updates">
+      <created>1571105812175</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1571105812175</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Image updates">
+      <created>1571105888477</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1571105888477</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Image updates">
+      <created>1571105894285</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1571105894285</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -493,7 +485,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Updating colors of fonts" />
     <MESSAGE value="Updated build" />
     <MESSAGE value="Added content" />
     <MESSAGE value="New pages, layout, scss" />
@@ -518,7 +509,8 @@
     <MESSAGE value="Added images" />
     <MESSAGE value="Adding more images" />
     <MESSAGE value="Updating images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating images" />
+    <MESSAGE value="Image updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Image updates" />
   </component>
   <component name="WindowStateProjectService">
     <state x="404" y="136" key="#Updates" timestamp="1569691595680">
