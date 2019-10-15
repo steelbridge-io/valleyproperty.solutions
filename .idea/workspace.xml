@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.cache/dev-404-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/joinOurTeamfront.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/dev-404-page.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,21 +126,8 @@
       <workItem from="1570931783894" duration="3529000" />
       <workItem from="1570989743308" duration="263000" />
       <workItem from="1571071215703" duration="2535000" />
-      <workItem from="1571091940231" duration="1521000" />
-    </task>
-    <task id="LOCAL-00034" summary="Removed Yay">
-      <created>1569727178466</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1569727178466</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Removed Yay">
-      <created>1569727227695</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1569727227695</updated>
+      <workItem from="1571091940231" duration="1563000" />
+      <workItem from="1571102634093" duration="750000" />
     </task>
     <task id="LOCAL-00036" summary="Added read more, added .lead class">
       <created>1569792321077</created>
@@ -468,7 +458,21 @@
       <option name="project" value="LOCAL" />
       <updated>1571094009331</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Updating images">
+      <created>1571094097340</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1571094097340</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Updating images">
+      <created>1571094110440</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1571094110440</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -557,15 +561,15 @@
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
     <state x="706" y="587" key="NewPhpFileDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1569949820048" />
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1571077598631">
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1571094120679">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1571077598631" />
-    <state x="538" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1571071218817">
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1571094120679" />
+    <state x="538" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1571102635578">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
     <state x="538" y="369" key="com.intellij.ide.util.TipDialog/3360.2100" timestamp="1569513124281" />
-    <state x="538" y="369" key="com.intellij.ide.util.TipDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1571071218817" />
+    <state x="538" y="369" key="com.intellij.ide.util.TipDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1571102635578" />
     <state x="558" y="481" width="667" height="422" key="find.popup" timestamp="1569903600170">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>

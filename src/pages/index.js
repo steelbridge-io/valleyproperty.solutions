@@ -8,12 +8,12 @@ import SEO from '../components/seo'
 
 import pic01 from '../assets/images/pic01.jpg'
 import pic04 from '../assets/images/pic04.jpg'
-import pic05 from '../assets/images/pic05.jpg'
 import pic06 from '../assets/images/pic06.jpg'
 import ourServicesFront from '../assets/images/ourServicesFront.jpg'
 import commonReasonsfrontpage from  '../assets/images/commonReasonsfrontpage.jpg'
 import propertiesWelike from '../assets/images/propertiesWelike.jpg'
 import getOfferfront from '../assets/images/getOfferfront.jpg'
+import joinOurTeamfront from '../assets/images/joinOurTeamfront.jpg'
 
 class HomeIndex extends React.Component {
     render() {
@@ -75,16 +75,16 @@ class HomeIndex extends React.Component {
                             </header>
                             <Link to="/wholesale-home-help-services/#getanoffer" className="link primary"></Link>
                         </article>
-                        <article id="article-five"  style={{backgroundImage: `url(${pic05})`}}>
+                        <article id="article-five"  style={{backgroundImage: `url(${joinOurTeamfront})`}}>
                             <header className="major">
-                                <h3>Join Our Team  <span className="fa fa-sign-in"></span></h3>
+                                <h3>Join Our Team  <span className="fa"></span></h3>
                                 <p className="lead">We are looking to build a team of assets, whether it be a group such as a company or individuals, we need you to bring value to <Link to="/join-valley-property-solutions">...Read more</Link></p>
                             </header>
                             <Link to="/join-valley-property-solutions" className="link primary"></Link>
                         </article>
                         <article id="article-six" style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
-                                <h3>About Valley Property Solutions  <span className="fa fa-graduation-cap"></span></h3>
+                                <h3>About Valley Property Solutions  <span className="fa"></span></h3>
                                 <p className="lead">Our philosophy. Our mission <Link to="/about-valley-property-solutions">...Read more</Link></p>
                             </header>
                             <Link to="/about-valley-property-solutions" className="link primary"></Link>
@@ -93,7 +93,7 @@ class HomeIndex extends React.Component {
                     <section id="two">
                         <div className="inner">
                             <header className="dark-line major">
-                                <h2>See Our Current Projects  <span className="fa fa-home"></span></h2>
+                                <h2>See Our Current Projects  <span className="fa"></span></h2>
                             </header>
                             <p>We are currenlty working on developing this section of our website and will have a portfolio soon.</p>
                             <ul className="actions">
