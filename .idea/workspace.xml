@@ -2,90 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.cache/.eslintrc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/__tests__/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/__tests__/__snapshots__/dev-loader.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/__tests__/__snapshots__/loader.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/__tests__/__snapshots__/static-entry.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/__tests__/dev-loader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/__tests__/error-overlay-handler.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/__tests__/find-path.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/__tests__/loader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/__tests__/minimal-config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/__tests__/static-entry.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/__tests__/strip-prefix.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/api-runner-browser-plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/api-runner-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/api-runner-ssr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/api-ssr-docs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/babelState.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/api-runner-browser-plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/api-runner-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/api-runner-ssr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/api-ssr-docs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/create-react-context.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/default-html.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/dev-loader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/develop-static-entry.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/emitter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/ensure-resources.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/error-overlay-handler.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/find-path.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/gatsby-browser-entry.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/json-store.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/loader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/navigation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/normalize-page-path.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/page-renderer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/prefetch.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/production-app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/public-page-renderer-dev.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/public-page-renderer-prod.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/public-page-renderer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/react-lifecycles-compat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/register-service-worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/root.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/socketIo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/static-entry.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/commonjs/strip-prefix.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/create-react-context.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/default-html.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/dev-404-page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/dev-loader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/develop-static-entry.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/emitter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/ensure-resources.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/error-overlay-handler.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/find-path.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/gatsby-browser-entry.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/json-store.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/loader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/match-paths.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/navigation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/normalize-page-path.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/page-renderer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/pages.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/prefetch.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/production-app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/public-page-renderer-dev.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/public-page-renderer-prod.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/public-page-renderer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/react-lifecycles-compat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/redirects.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/register-service-worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/root.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/socketIo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/static-entry.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/strip-prefix.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/test-require-error.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env.production" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/__tests__/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/__tests__/__snapshots__/dev-loader.js.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/__tests__/__snapshots__/loader.js.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/__tests__/__snapshots__/static-entry.js.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/__tests__/dev-loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/__tests__/error-overlay-handler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/__tests__/find-path.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/__tests__/loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/__tests__/minimal-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/__tests__/static-entry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/__tests__/strip-prefix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/api-runner-browser-plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/api-runner-browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/api-runner-ssr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/api-ssr-docs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/babelState.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/api-runner-browser-plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/api-runner-browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/api-runner-ssr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/api-ssr-docs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/create-react-context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/default-html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/dev-loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/develop-static-entry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/emitter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/ensure-resources.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/error-overlay-handler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/find-path.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/gatsby-browser-entry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/json-store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/normalize-page-path.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/page-renderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/prefetch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/production-app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/public-page-renderer-dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/public-page-renderer-prod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/public-page-renderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/react-lifecycles-compat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/register-service-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/root.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/socketIo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/static-entry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/commonjs/strip-prefix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/create-react-context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/default-html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/dev-loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/develop-static-entry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/emitter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/ensure-resources.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/error-overlay-handler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/find-path.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/gatsby-browser-entry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/json-store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/match-paths.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/normalize-page-path.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/page-renderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/pages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/prefetch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/production-app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/public-page-renderer-dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/public-page-renderer-prod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/public-page-renderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/react-lifecycles-compat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/redirects.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/register-service-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/root.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/socketIo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/static-entry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/strip-prefix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/test-require-error.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,14 +207,7 @@
       <workItem from="1571459758566" duration="528000" />
       <workItem from="1571535554294" duration="44000" />
       <workItem from="1571939892328" duration="546000" />
-      <workItem from="1571941114268" duration="776000" />
-    </task>
-    <task id="LOCAL-00043" summary="Updates to handler">
-      <created>1569906027819</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1569906027819</updated>
+      <workItem from="1571941114268" duration="1046000" />
     </task>
     <task id="LOCAL-00044" summary="Updates to handler email">
       <created>1569906107800</created>
@@ -556,7 +545,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571941239713</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="Search update">
+      <created>1571941914495</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1571941914495</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -645,10 +641,10 @@
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
     <state x="706" y="587" key="NewPhpFileDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1569949820048" />
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1571941269835">
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1571941952137">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1571941269835" />
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1571941952137" />
     <state x="538" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1571941114700">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
