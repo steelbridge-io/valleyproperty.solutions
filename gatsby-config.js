@@ -1,8 +1,3 @@
-//const queries = require("./src/utils/algolia")
-require('dotenv').config({
-  path: `.env.production`
-});
-
 // gatsby-config.js
 const blogSearchQuery = `{
   allSite(filter: {}, limit: 10, skip: 10) {
@@ -29,7 +24,6 @@ module.exports = {
     author: "Chris Parsons",
     description: "N. California Wholesale Realesate Investing"
   },
-  pathPrefix: `/gatsby-plugin-elasticlunr-search`,
   plugins: [
     'gatsby-plugin-sass',
     'gatsby-plugin-offline',
@@ -59,23 +53,6 @@ module.exports = {
         cookieDomain: "valleyproperty.solutions",
       },
     },
-
-
-
-    {
-      resolve: `gatsby-plugin-algolia`,
-      options: {
-        appId: process.env.ALGOLIA_APP_ID,
-        apiKey: process.env.ALGOLIA_API_KEY,
-        indexName: process.env.ALGOLIA_INDEX_NAME, // for all queries
-        queries,
-        chunkSize: 10000, // default: 1000
-      },
-    },
-
-
-
-
   ],
 }
 
