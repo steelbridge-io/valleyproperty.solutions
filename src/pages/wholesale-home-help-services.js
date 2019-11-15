@@ -25,12 +25,12 @@ const Landing = (props) => (
 
         <div id="main">
             <section id="one">
-                <div className="inner">
+                {/*<div className="inner">
                     <header className="major landing1">
                         <h2>We Are Leaders</h2>
                     </header>
-                    <p>To build a relaible and prdicatble home sales process, Valley Property Solutions helps you; makes the effort; and fosters collaberation amongst investors interested in your home. Here are some ways we can help you:</p>
-                </div>
+                    <p>To build a reliable and predictable home sales process, Valley Property Solutions helps you; makes the effort; and fosters collaboration amongst investors interested in your home. Here are some ways we can help you:</p>
+                </div>*/}
             </section>
             <section id="two" className="spotlights">
                 <section>
@@ -42,7 +42,7 @@ const Landing = (props) => (
                             <header id="weunderstand" className="major landing1">
                                 <h3>We Understand</h3>
                             </header>
-                            <p>Selling your home can seem like a very intimidating task whether its your choice or not. We just want you to know that we're here to make your life easier and help guid you through this process.</p>
+                            <p>Selling your home can seem like a very intimidating task whether its your choice or not. We just want you to know that we're here to make your life easier and help guide you through this process.</p>
                             <ul className="actions">
                                 <li><Link to="/contact-us" className="button">Learn more</Link></li>
                             </ul>

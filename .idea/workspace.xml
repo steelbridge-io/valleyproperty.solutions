@@ -2,86 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.cache/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/__tests__/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/__tests__/__snapshots__/dev-loader.js.snap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/__tests__/__snapshots__/loader.js.snap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/__tests__/__snapshots__/static-entry.js.snap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/__tests__/dev-loader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/__tests__/error-overlay-handler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/__tests__/find-path.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/__tests__/loader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/__tests__/minimal-config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/__tests__/static-entry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/__tests__/strip-prefix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/api-runner-browser-plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/api-runner-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/api-runner-ssr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/api-ssr-docs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/babelState.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/api-runner-browser-plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/api-runner-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/api-runner-ssr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/api-ssr-docs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/create-react-context.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/default-html.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/dev-loader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/develop-static-entry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/emitter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/ensure-resources.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/error-overlay-handler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/find-path.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/gatsby-browser-entry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/json-store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/loader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/navigation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/normalize-page-path.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/page-renderer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/prefetch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/production-app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/public-page-renderer-dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/public-page-renderer-prod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/public-page-renderer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/react-lifecycles-compat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/register-service-worker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/root.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/socketIo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/static-entry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/commonjs/strip-prefix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/create-react-context.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/default-html.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/dev-loader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/develop-static-entry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/emitter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/ensure-resources.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/error-overlay-handler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/find-path.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/gatsby-browser-entry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/json-store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/loader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/match-paths.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/navigation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/normalize-page-path.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/page-renderer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/pages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/prefetch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/production-app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/public-page-renderer-dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/public-page-renderer-prod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/public-page-renderer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/react-lifecycles-compat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/redirects.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/register-service-worker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/root.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/socketIo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/static-entry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/strip-prefix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/test-require-error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/dev-404-page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/wholesale-home-help-services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/wholesale-home-help-services.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +43,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
@@ -150,15 +77,15 @@
       <recent name="$PROJECT_DIR$/src/pages" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -207,21 +134,10 @@
       <workItem from="1571459758566" duration="528000" />
       <workItem from="1571535554294" duration="44000" />
       <workItem from="1571939892328" duration="546000" />
-      <workItem from="1571941114268" duration="1046000" />
-    </task>
-    <task id="LOCAL-00044" summary="Updates to handler email">
-      <created>1569906107800</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1569906107800</updated>
-    </task>
-    <task id="LOCAL-00045" summary="Updates to handler email">
-      <created>1569906155978</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1569906155978</updated>
+      <workItem from="1571941114268" duration="1120000" />
+      <workItem from="1571968580084" duration="746000" />
+      <workItem from="1571970037306" duration="218000" />
+      <workItem from="1573856903775" duration="508000" />
     </task>
     <task id="LOCAL-00046" summary="Update">
       <created>1569906354860</created>
@@ -552,7 +468,21 @@
       <option name="project" value="LOCAL" />
       <updated>1571941914495</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="Search update">
+      <created>1571942185116</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1571942185116</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Search update">
+      <created>1571942201450</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1571942201450</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -641,15 +571,15 @@
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
     <state x="706" y="587" key="NewPhpFileDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1569949820048" />
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1571941952137">
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1571942230042">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1571941952137" />
-    <state x="538" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1571941114700">
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1571942230042" />
+    <state x="538" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1573856903869">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
     <state x="538" y="369" key="com.intellij.ide.util.TipDialog/3360.2100" timestamp="1569513124281" />
-    <state x="538" y="369" key="com.intellij.ide.util.TipDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1571941114700" />
+    <state x="538" y="369" key="com.intellij.ide.util.TipDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1573856903869" />
     <state x="558" y="481" width="667" height="422" key="find.popup" timestamp="1569903600170">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
