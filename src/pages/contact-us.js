@@ -56,7 +56,7 @@ const ContactUs = (props) => (
                             <div className="contact-method">
                                 <span className="icon alt fa-envelope"></span>
                                 <h3>Email</h3>
-                                <a href="#">contact@valleyproperty.solutions</a>
+                                <a href="mailto:contact@valleyproperty.solutions">contact@valleyproperty.solutions</a>
                             </div>
                         </section>
                         <section>

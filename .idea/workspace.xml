@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.cache/dev-404-page.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/dev-404-page.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/wholesale-home-help-services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/wholesale-home-help-services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/contact-us.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contact-us.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,14 +137,7 @@
       <workItem from="1571941114268" duration="1120000" />
       <workItem from="1571968580084" duration="746000" />
       <workItem from="1571970037306" duration="218000" />
-      <workItem from="1573856903775" duration="508000" />
-    </task>
-    <task id="LOCAL-00046" summary="Update">
-      <created>1569906354860</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1569906354860</updated>
+      <workItem from="1573856903775" duration="1549000" />
     </task>
     <task id="LOCAL-00047" summary="Update">
       <created>1569906362292</created>
@@ -482,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571942201450</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Removed &quot;Why We Are Leaders&quot;">
+      <created>1573857453390</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1573857453390</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -503,7 +503,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Added content" />
     <MESSAGE value="New pages, layout, scss" />
     <MESSAGE value="added about page, linktargets" />
     <MESSAGE value="Updated biuld" />
@@ -528,7 +527,8 @@
     <MESSAGE value="Updating images" />
     <MESSAGE value="Image updates" />
     <MESSAGE value="Search update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Search update" />
+    <MESSAGE value="Removed &quot;Why We Are Leaders&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed &quot;Why We Are Leaders&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="404" y="136" key="#Updates" timestamp="1569691595680">
@@ -551,6 +551,10 @@
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
     <state x="633" y="519" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/45.23.1635.1027@45.23.1635.1027" timestamp="1569801247161" />
+    <state x="471" y="195" key="CommitChangelistDialog2" timestamp="1573857453161">
+      <screen x="45" y="23" width="1635" height="1027" />
+    </state>
+    <state x="471" y="195" key="CommitChangelistDialog2/45.23.1635.1027@45.23.1635.1027" timestamp="1573857453161" />
     <state width="1056" height="209" key="GridCell.Tab.0.bottom" timestamp="1569906190241">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
@@ -571,10 +575,10 @@
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
     <state x="706" y="587" key="NewPhpFileDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1569949820048" />
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1571942230042">
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1573857487602">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1571942230042" />
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1573857487602" />
     <state x="538" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1573856903869">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
