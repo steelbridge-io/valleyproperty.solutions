@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/dev-404-page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,42 +131,7 @@
       <workItem from="1571968580084" duration="746000" />
       <workItem from="1571970037306" duration="218000" />
       <workItem from="1573856903775" duration="2162000" />
-      <workItem from="1573923474378" duration="669000" />
-    </task>
-    <task id="LOCAL-00051" summary="Adding SEO">
-      <created>1569965984154</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1569965984155</updated>
-    </task>
-    <task id="LOCAL-00052" summary="Adding SEO">
-      <created>1569966046521</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1569966046521</updated>
-    </task>
-    <task id="LOCAL-00053" summary="Remove Public">
-      <created>1569966172430</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1569966172430</updated>
-    </task>
-    <task id="LOCAL-00054" summary="Remove Public">
-      <created>1569966182295</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1569966182295</updated>
-    </task>
-    <task id="LOCAL-00055" summary="Added pages">
-      <created>1569972297838</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1569972297838</updated>
+      <workItem from="1573923474378" duration="896000" />
     </task>
     <task id="LOCAL-00056" summary="Added pages">
       <created>1569972381280</created>
@@ -482,7 +441,42 @@
       <option name="project" value="LOCAL" />
       <updated>1573923602367</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="Correct spelling on projects page.">
+      <created>1573933717119</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1573933717119</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Correct spelling on projects page.">
+      <created>1573933825041</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1573933825041</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Correct spelling on projects page.">
+      <created>1573933870392</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1573933870392</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Correct spelling on projects page.">
+      <created>1573933888058</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1573933888058</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Correct spelling on projects page.">
+      <created>1573933899312</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1573933899312</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,10 +545,10 @@
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
     <state x="633" y="519" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/45.23.1635.1027@45.23.1635.1027" timestamp="1569801247161" />
-    <state x="471" y="195" key="CommitChangelistDialog2" timestamp="1573933887928">
+    <state x="471" y="195" key="CommitChangelistDialog2" timestamp="1573933899170">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
-    <state x="471" y="195" key="CommitChangelistDialog2/45.23.1635.1027@45.23.1635.1027" timestamp="1573933887928" />
+    <state x="471" y="195" key="CommitChangelistDialog2/45.23.1635.1027@45.23.1635.1027" timestamp="1573933899170" />
     <state width="1056" height="209" key="GridCell.Tab.0.bottom" timestamp="1569906190241">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
@@ -575,10 +569,10 @@
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
     <state x="706" y="587" key="NewPhpFileDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1569949820048" />
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1573933844963">
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1573933916669">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1573933844963" />
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1573933916669" />
     <state x="538" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1573856903869">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
