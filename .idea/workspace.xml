@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.cache/dev-404-page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/projects.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,14 +137,8 @@
       <workItem from="1571941114268" duration="1120000" />
       <workItem from="1571968580084" duration="746000" />
       <workItem from="1571970037306" duration="218000" />
-      <workItem from="1573856903775" duration="2118000" />
-    </task>
-    <task id="LOCAL-00049" summary="Adding SEO">
-      <created>1569956314283</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1569956314283</updated>
+      <workItem from="1573856903775" duration="2162000" />
+      <workItem from="1573923474378" duration="98000" />
     </task>
     <task id="LOCAL-00050" summary="Adding SEO">
       <created>1569956332385</created>
@@ -477,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573858917901</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="Updated footer email link so it triggered a new message">
+      <created>1573859866429</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1573859866429</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -546,10 +552,10 @@
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
     <state x="633" y="519" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/45.23.1635.1027@45.23.1635.1027" timestamp="1569801247161" />
-    <state x="471" y="195" key="CommitChangelistDialog2" timestamp="1573858917734">
+    <state x="471" y="195" key="CommitChangelistDialog2" timestamp="1573859866262">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
-    <state x="471" y="195" key="CommitChangelistDialog2/45.23.1635.1027@45.23.1635.1027" timestamp="1573858917734" />
+    <state x="471" y="195" key="CommitChangelistDialog2/45.23.1635.1027@45.23.1635.1027" timestamp="1573859866262" />
     <state width="1056" height="209" key="GridCell.Tab.0.bottom" timestamp="1569906190241">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
@@ -570,10 +576,10 @@
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
     <state x="706" y="587" key="NewPhpFileDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1569949820048" />
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1573858924754">
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1573859872154">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1573858924754" />
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1573859872154" />
     <state x="538" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1573856903869">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>

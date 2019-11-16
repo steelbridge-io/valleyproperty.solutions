@@ -20,7 +20,7 @@ const Generic = (props) => (
                         <h1>We Are Bulding Our Property Page</h1>
                     </header>
                     <span className="image main"><img src={pic11} alt="Valley Property Solutions" /></span>
-                    <p>Sorry we just don' have the Properties content quite ready yet. We are working with our web developer on the final layout and should have someting to share in a week or so.</p>
+                    <p>Sorry we just don't have the Properties content quite ready yet. We are working with our web developer on the final layout and should have someting to share in a week or so.</p>
                 </div>
             </section>
         </div>
