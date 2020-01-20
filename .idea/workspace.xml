@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="" />
+    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.cache/dev-404-page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/properties-we-purchase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/properties-we-purchase.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,13 +139,9 @@
       <workItem from="1571970037306" duration="218000" />
       <workItem from="1573856903775" duration="2162000" />
       <workItem from="1573923474378" duration="896000" />
-    </task>
-    <task id="LOCAL-00056" summary="Added pages">
-      <created>1569972381280</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1569972381280</updated>
+      <workItem from="1573933944000" duration="48000" />
+      <workItem from="1577813868540" duration="269000" />
+      <workItem from="1579484839756" duration="400000" />
     </task>
     <task id="LOCAL-00057" summary="Updated images, CSS">
       <created>1569976406177</created>
@@ -476,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573933899312</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="Correct spelling on projects page.">
+      <created>1573933953726</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1573933953726</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,63 +535,23 @@
     <option name="LAST_COMMIT_MESSAGE" value="Correct spelling on projects page." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="404" y="136" key="#Updates" timestamp="1569691595680">
-      <screen x="45" y="23" width="1635" height="1027" />
-    </state>
-    <state x="404" y="136" key="#Updates/45.23.1635.1027@45.23.1635.1027" timestamp="1569691595680" />
     <state x="226" y="250" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1571075689593">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
     <state x="226" y="250" key="#com.intellij.execution.impl.EditConfigurationsDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1571075689593" />
-    <state x="521" y="294" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1569697661288">
+    <state x="471" y="195" key="CommitChangelistDialog2" timestamp="1573933953593">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
-    <state x="521" y="294" key="#com.intellij.fileTypes.FileTypeChooser/45.23.1635.1027@45.23.1635.1027" timestamp="1569697661288" />
-    <state x="623" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1569803310658">
+    <state x="471" y="195" key="CommitChangelistDialog2/45.23.1635.1027@45.23.1635.1027" timestamp="1573933953593" />
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1573933973605">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
-    <state x="623" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1569803310658" />
-    <state x="633" y="519" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1569801247161">
-      <screen x="45" y="23" width="1635" height="1027" />
+    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1573933973605" />
+    <state x="610" y="420" key="com.intellij.ide.util.TipDialog" timestamp="1579484840441">
+      <screen x="45" y="23" width="1875" height="1177" />
     </state>
-    <state x="633" y="519" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/45.23.1635.1027@45.23.1635.1027" timestamp="1569801247161" />
-    <state x="471" y="195" key="CommitChangelistDialog2" timestamp="1573933899170">
-      <screen x="45" y="23" width="1635" height="1027" />
-    </state>
-    <state x="471" y="195" key="CommitChangelistDialog2/45.23.1635.1027@45.23.1635.1027" timestamp="1573933899170" />
-    <state width="1056" height="209" key="GridCell.Tab.0.bottom" timestamp="1569906190241">
-      <screen x="45" y="23" width="1635" height="1027" />
-    </state>
-    <state width="1056" height="209" key="GridCell.Tab.0.bottom/45.23.1635.1027@45.23.1635.1027" timestamp="1569906190241" />
-    <state width="1056" height="209" key="GridCell.Tab.0.center" timestamp="1569906190240">
-      <screen x="45" y="23" width="1635" height="1027" />
-    </state>
-    <state width="1056" height="209" key="GridCell.Tab.0.center/45.23.1635.1027@45.23.1635.1027" timestamp="1569906190240" />
-    <state width="1056" height="209" key="GridCell.Tab.0.left" timestamp="1569906190239">
-      <screen x="45" y="23" width="1635" height="1027" />
-    </state>
-    <state width="1056" height="209" key="GridCell.Tab.0.left/45.23.1635.1027@45.23.1635.1027" timestamp="1569906190239" />
-    <state width="1056" height="209" key="GridCell.Tab.0.right" timestamp="1569906190241">
-      <screen x="45" y="23" width="1635" height="1027" />
-    </state>
-    <state width="1056" height="209" key="GridCell.Tab.0.right/45.23.1635.1027@45.23.1635.1027" timestamp="1569906190241" />
-    <state x="706" y="587" key="NewPhpFileDialog" timestamp="1569949820048">
-      <screen x="45" y="23" width="1635" height="1027" />
-    </state>
-    <state x="706" y="587" key="NewPhpFileDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1569949820048" />
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2" timestamp="1573933916669">
-      <screen x="45" y="23" width="1635" height="1027" />
-    </state>
-    <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1573933916669" />
-    <state x="538" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1573856903869">
-      <screen x="45" y="23" width="1635" height="1027" />
-    </state>
-    <state x="538" y="369" key="com.intellij.ide.util.TipDialog/3360.2100" timestamp="1569513124281" />
     <state x="538" y="369" key="com.intellij.ide.util.TipDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1573856903869" />
-    <state x="558" y="481" width="667" height="422" key="find.popup" timestamp="1569903600170">
-      <screen x="45" y="23" width="1635" height="1027" />
-    </state>
-    <state x="558" y="481" width="667" height="422" key="find.popup/45.23.1635.1027@45.23.1635.1027" timestamp="1569903600170" />
+    <state x="610" y="420" key="com.intellij.ide.util.TipDialog/45.23.1875.1177@45.23.1875.1177" timestamp="1579484840441" />
     <state x="620" y="194" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1571458469968">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
