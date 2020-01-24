@@ -29,7 +29,7 @@ const Properties = (props) => (
 
 
                     <ul className="actions welike">
-                        <li><Link to="/wholesailing" className="button">Learn More About Wholesailing</Link></li>
+                        <li><Link to="/wholesaling" className="button">Learn More About Wholesailing</Link></li>
                     </ul>
 
                 </div>

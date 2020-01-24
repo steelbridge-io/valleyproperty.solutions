@@ -26,7 +26,7 @@ class HomeIndex extends React.Component {
                     title="Valley Property Solutions LLC | Wholesale Property Investing"
                     meta={[
                         { name: 'description', content: 'Wholesale Property Sales in California. Valley Property Solutions LLC helps you sell your home fast. We specialize in wholesale property investing.' },
-                        { name: 'keywords', content: 'wholesale, property, home, realestate, wholesale property investing' },
+                        { name: 'keywords', content: 'wholesale, property, home, Real Estate, wholesale property investing' },
                     ]}
                 >
                     <script type="application/ld+json">{JSON.stringify(schemaOrgJSONLD)}</script>
@@ -72,7 +72,7 @@ class HomeIndex extends React.Component {
                         <article id="article-four" style={{backgroundImage: `url(${getOfferfront})`}}>
                             <header className="major">
                                 <h3>Get An Offer</h3>
-                                <p className="lead">Need to sell your property fast? Give is a call today at (530) 446-2271 <Link to="/wholesale-home-help-services/#getanoffer">...Read more</Link></p>
+                                <p className="lead">Need to sell your property fast? Give us a call today at (530) 446-2271 <Link to="/wholesale-home-help-services/#getanoffer">...Read more</Link></p>
                             </header>
                             <Link to="/wholesale-home-help-services/#getanoffer" className="link primary"></Link>
                         </article>
@@ -121,7 +121,7 @@ let schemaOrgJSONLD = [
             "https://valleyproperty.solutions/contact-us"
         ],
         "logo": "https://valleyproperty.solutions/static/VPS_Logo-462bff187d98b65f7b4e097adce34438.png",
-        "description": "Northern California Wholesale Realestate Sales & Investments",
+        "description": "Northern California Wholesale Real Estate Sales & Investments",
         "address": {
             "@type": "PostalAddress",
             "streetAddress": "21975 Stoney Creek Pl",

@@ -22,7 +22,7 @@ module.exports = {
   siteMetadata: {
     title: "Valley Property Solutions",
     author: "Chris Parsons",
-    description: "N. California Wholesale Realesate Investing"
+    description: "N. California Wholesale Real Estate Investing"
   },
   plugins: [
     'gatsby-plugin-sass',

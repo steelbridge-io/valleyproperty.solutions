@@ -42,7 +42,7 @@ const Landing = (props) => (
                             <header id="foreclosure" className="major landing1">
                                 <h3>Pre-Foreclosure</h3>
                             </header>
-                            <p>There’s nothing more devastating than losing your home due to one of life's many unexpected curveballs. We understand that you need to get out of your situation fast, so we make it our goal to take some stress off your shoulders by making this process go as smooth as possible. We buy in “as Is” condition, make all cash offers and can close in as little as 2 weeks. Are there late payments hurting your credit score? No problem, in some situations were able to bring your current payment up to date so that it shows payment history on your credit.</p>
+                            <p>There’s nothing more devastating than losing your home due to one of life's many unexpected curveballs. We understand that you need to get out of your situation fast, so we make it our goal to take some stress off your shoulders by making this process go as smooth as possible. We buy in “as is” condition, make all cash offers and can close in as little as 2 weeks. Are there late payments hurting your credit score? No problem, in some situations we're able to bring your current payment up to date so that it shows payment history on your credit.</p>
                             <ul className="actions">
                                 <li><Link to="/contact-us" className="button">Learn more</Link></li>
                             </ul>

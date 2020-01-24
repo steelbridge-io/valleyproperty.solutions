@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="" />
+    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.cache/api-runner-ssr.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/api-runner-ssr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/wholesailingGeneric.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/wholesalingGeneric.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/about-valley-property-solutions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about-valley-property-solutions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/common-reasons-for-selling.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/common-reasons-for-selling.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/contact-us.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contact-us.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/properties-we-purchase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/properties-we-purchase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/wholesailing.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/wholesaling.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/wholesale-home-help-services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/wholesale-home-help-services.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,6 +152,7 @@
       <workItem from="1577813868540" duration="269000" />
       <workItem from="1579484839756" duration="3662000" />
       <workItem from="1579492264195" duration="4594000" />
+      <workItem from="1579842538496" duration="1956000" />
     </task>
     <task id="LOCAL-00066" summary="Adding images to common-reasons-for-selling.js">
       <created>1570821131273</created>
@@ -529,10 +546,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updated Properties We Purchase page." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="226" y="250" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1571075689593">
-      <screen x="45" y="23" width="1635" height="1027" />
-    </state>
-    <state x="226" y="250" key="#com.intellij.execution.impl.EditConfigurationsDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1571075689593" />
     <state x="534" y="220" key="CommitChangelistDialog2" timestamp="1579499810446">
       <screen x="45" y="23" width="1875" height="1177" />
     </state>
@@ -543,11 +556,15 @@
     </state>
     <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1573933973605" />
     <state x="477" y="256" key="Vcs.Push.Dialog.v2/45.23.1875.1177@45.23.1875.1177" timestamp="1579498990647" />
-    <state x="610" y="420" key="com.intellij.ide.util.TipDialog" timestamp="1579484840441">
+    <state x="610" y="420" key="com.intellij.ide.util.TipDialog" timestamp="1579842539018">
       <screen x="45" y="23" width="1875" height="1177" />
     </state>
     <state x="538" y="369" key="com.intellij.ide.util.TipDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1573856903869" />
-    <state x="610" y="420" key="com.intellij.ide.util.TipDialog/45.23.1875.1177@45.23.1875.1177" timestamp="1579484840441" />
+    <state x="610" y="420" key="com.intellij.ide.util.TipDialog/45.23.1875.1177@45.23.1875.1177" timestamp="1579842539018" />
+    <state x="671" y="522" width="837" height="550" key="find.popup" timestamp="1579844196128">
+      <screen x="45" y="23" width="1875" height="1177" />
+    </state>
+    <state x="671" y="522" width="837" height="550" key="find.popup/45.23.1875.1177@45.23.1875.1177" timestamp="1579844196128" />
     <state x="620" y="194" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1571458469968">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>

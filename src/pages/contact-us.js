@@ -11,7 +11,7 @@ const ContactUs = (props) => (
         <SEO />
         <Helmet>
             <title>Valley Property Solutions | Contact Us</title>
-            <meta name="description" content="Contact Valley Property Solutions, a realestate wholesale service. Take the first step in getting cash for your home." />
+            <meta name="description" content="Contact Valley Property Solutions, a Real Estate wholesale service. Take the first step in getting cash for your home." />
             <script type="application/ld+json">{JSON.stringify(schemaOrgJSONLD)}</script>
         </Helmet>
         <div id="main">

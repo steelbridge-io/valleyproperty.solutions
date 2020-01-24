@@ -15,7 +15,7 @@ exports.components = {
   "component---src-pages-landing-js": () => import("./../src/pages/landing.js" /* webpackChunkName: "component---src-pages-landing-js" */),
   "component---src-pages-projects-js": () => import("./../src/pages/projects.js" /* webpackChunkName: "component---src-pages-projects-js" */),
   "component---src-pages-properties-we-purchase-js": () => import("./../src/pages/properties-we-purchase.js" /* webpackChunkName: "component---src-pages-properties-we-purchase-js" */),
-  "component---src-pages-wholesailing-js": () => import("./../src/pages/wholesailing.js" /* webpackChunkName: "component---src-pages-wholesailing-js" */),
-  "component---src-pages-wholesale-home-help-services-js": () => import("./../src/pages/wholesale-home-help-services.js" /* webpackChunkName: "component---src-pages-wholesale-home-help-services-js" */)
+  "component---src-pages-wholesale-home-help-services-js": () => import("./../src/pages/wholesale-home-help-services.js" /* webpackChunkName: "component---src-pages-wholesale-home-help-services-js" */),
+  "component---src-pages-wholesaling-js": () => import("./../src/pages/wholesaling.js" /* webpackChunkName: "component---src-pages-wholesaling-js" */)
 }
 
