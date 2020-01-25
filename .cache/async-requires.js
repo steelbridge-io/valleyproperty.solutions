@@ -2,6 +2,7 @@
 const preferDefault = m => m && m.default || m
 
 exports.components = {
+  "component---src-templates-page-template-js": () => import("./../src/templates/pageTemplate.js" /* webpackChunkName: "component---src-templates-page-template-js" */),
   "component---cache-dev-404-page-js": () => import("./dev-404-page.js" /* webpackChunkName: "component---cache-dev-404-page-js" */),
   "component---src-pages-404-js": () => import("./../src/pages/404.js" /* webpackChunkName: "component---src-pages-404-js" */),
   "component---src-pages-about-valley-property-solutions-js": () => import("./../src/pages/about-valley-property-solutions.js" /* webpackChunkName: "component---src-pages-about-valley-property-solutions-js" */),
@@ -15,7 +16,8 @@ exports.components = {
   "component---src-pages-landing-js": () => import("./../src/pages/landing.js" /* webpackChunkName: "component---src-pages-landing-js" */),
   "component---src-pages-projects-js": () => import("./../src/pages/projects.js" /* webpackChunkName: "component---src-pages-projects-js" */),
   "component---src-pages-properties-we-purchase-js": () => import("./../src/pages/properties-we-purchase.js" /* webpackChunkName: "component---src-pages-properties-we-purchase-js" */),
-  "component---src-pages-wholesale-home-help-services-js": () => import("./../src/pages/wholesale-home-help-services.js" /* webpackChunkName: "component---src-pages-wholesale-home-help-services-js" */),
-  "component---src-pages-wholesaling-js": () => import("./../src/pages/wholesaling.js" /* webpackChunkName: "component---src-pages-wholesaling-js" */)
+  "component---src-pages-wholesale-home-help-services-og-js": () => import("./../src/pages/wholesale-home-help-services-og.js" /* webpackChunkName: "component---src-pages-wholesale-home-help-services-og-js" */),
+  "component---src-pages-wholesaling-og-js": () => import("./../src/pages/wholesaling-og.js" /* webpackChunkName: "component---src-pages-wholesaling-og-js" */),
+  "component---src-templates-our-services-js": () => import("./../src/templates/ourServices.js" /* webpackChunkName: "component---src-templates-our-services-js" */)
 }
 

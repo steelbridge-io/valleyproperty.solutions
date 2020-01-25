@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="">
+    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="Updated Properties We Purchase page.">
+      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-23190ed4ddf91c41add0093d6b8c8dbb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-401cd7c3bd8dca0a5ec60e942a37eb8a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-8cbbc0936e353ae012fa06ff63e08e5c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-8d7acb259b957e648d89cbecfbc10796.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-cd6804fc9b24be4b3a856626a71e97b9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-d94d75900ad680237b734ca57e1c0377.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-sharp/diskstore-a725b5a23ae0fd49daca0d8ad1ec86ba.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/wholeSaling.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/markdown/wholesale-home-help-services.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/markdown/wholesaling.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/blogTemplate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/ourServices.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/pageTemplate.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/api-runner-ssr.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/api-runner-ssr.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/wholesailingGeneric.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/wholesalingGeneric.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/about-valley-property-solutions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about-valley-property-solutions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/common-reasons-for-selling.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/common-reasons-for-selling.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/contact-us.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contact-us.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/properties-we-purchase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/properties-we-purchase.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/wholesailing.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/wholesaling.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/wholesale-home-help-services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/wholesale-home-help-services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-node.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-node.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/landing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/wholesale-home-help-services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/wholesale-home-help-services-og.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/wholesaling.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/wholesaling-og.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +70,8 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/templates" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -75,15 +86,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.SCSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/templates" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/utils" />
       <recent name="$PROJECT_DIR$/src/pages" />
       <recent name="$PROJECT_DIR$/src/assets/images" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src/components" />
-      <recent name="$PROJECT_DIR$/src/pages" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -556,11 +568,11 @@
     </state>
     <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1573933973605" />
     <state x="477" y="256" key="Vcs.Push.Dialog.v2/45.23.1875.1177@45.23.1875.1177" timestamp="1579498990647" />
-    <state x="610" y="420" key="com.intellij.ide.util.TipDialog" timestamp="1579842539018">
+    <state x="610" y="420" key="com.intellij.ide.util.TipDialog" timestamp="1579926377455">
       <screen x="45" y="23" width="1875" height="1177" />
     </state>
     <state x="538" y="369" key="com.intellij.ide.util.TipDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1573856903869" />
-    <state x="610" y="420" key="com.intellij.ide.util.TipDialog/45.23.1875.1177@45.23.1875.1177" timestamp="1579842539018" />
+    <state x="610" y="420" key="com.intellij.ide.util.TipDialog/45.23.1875.1177@45.23.1875.1177" timestamp="1579926377455" />
     <state x="671" y="522" width="837" height="550" key="find.popup" timestamp="1579844196128">
       <screen x="45" y="23" width="1875" height="1177" />
     </state>
