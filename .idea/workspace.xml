@@ -2,7 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-30f5a6bca3f8846c7fbdf45bd45d86d7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-705ffdee3ab8f37701eaac8d945c8524.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-aaebe414635dc7c2ebdda49c5e40f89d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/markdown/join-valley-property-solutions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/joinValleyProp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-35b8d36e79df5f1ea87b22fd5414c9b6.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-35b8d36e79df5f1ea87b22fd5414c9b6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-401cd7c3bd8dca0a5ec60e942a37eb8a.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-401cd7c3bd8dca0a5ec60e942a37eb8a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-5f8e5c7abae336aa3ffd355781b47c0a.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-5f8e5c7abae336aa3ffd355781b47c0a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-66c14d96211bddb61d65d6cb71e321d6.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-66c14d96211bddb61d65d6cb71e321d6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-8471d007974ab72b09c61754f03a2b65.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-8471d007974ab72b09c61754f03a2b65.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-84996f4e54e8cb8d31b8701e34991900.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-84996f4e54e8cb8d31b8701e34991900.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-958065082395bc9d390b7876b6f95ee7.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-958065082395bc9d390b7876b6f95ee7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-af67c58cd87c0627ad71a88d02ea6634.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-af67c58cd87c0627ad71a88d02ea6634.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-cd6804fc9b24be4b3a856626a71e97b9.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-cd6804fc9b24be4b3a856626a71e97b9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-d94d75900ad680237b734ca57e1c0377.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-d94d75900ad680237b734ca57e1c0377.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-e78c0aacbc818692570ebc9b078e7e6f.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-e78c0aacbc818692570ebc9b078e7e6f.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-f3119880b2c3fa3f7fabed2626c295b0.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-f3119880b2c3fa3f7fabed2626c295b0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-sharp/diskstore-6ec032ce8b46ca6e5ddcc327cafe4bdf.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-sharp/diskstore-6ec032ce8b46ca6e5ddcc327cafe4bdf.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-sharp/diskstore-7c2adddbb7fad4ca09413e9364f5b851.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-sharp/diskstore-7c2adddbb7fad4ca09413e9364f5b851.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/join-valley-property-solutions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/join-valley-property-solutions-og.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,14 +166,7 @@
       <workItem from="1579842538496" duration="1956000" />
       <workItem from="1579926376803" duration="255000" />
       <workItem from="1579982405640" duration="2273000" />
-      <workItem from="1579987474322" duration="3315000" />
-    </task>
-    <task id="LOCAL-00071" summary="New images">
-      <created>1570856926785</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1570856926785</updated>
+      <workItem from="1579987474322" duration="6336000" />
     </task>
     <task id="LOCAL-00072" summary="Added images">
       <created>1570942280796</created>
@@ -488,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579990732514</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="Removed landing.js">
+      <created>1579991651320</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1579991651320</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -509,7 +532,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Updates to scss, layout, contact page" />
     <MESSAGE value="Updates to handler" />
     <MESSAGE value="Updates to handler email" />
     <MESSAGE value="Update" />
@@ -534,14 +556,15 @@
     <MESSAGE value="Initial Update. Added markdown files. Added multi-template option." />
     <MESSAGE value="Added projects.md, properties-we-purchase.md, updated whoesaling.md, pageTemplates.js. Renamed projects.js, properties-we-purchase.js, updated wholesaling-og.js" />
     <MESSAGE value="Removed Search from navigtion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed Search from navigtion" />
+    <MESSAGE value="Removed landing.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed landing.js" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="218" y="220" key="CommitChangelistDialog2" timestamp="1579990731653">
+    <state x="218" y="220" key="CommitChangelistDialog2" timestamp="1579991650306">
       <screen x="45" y="23" width="1875" height="1177" />
     </state>
     <state x="471" y="195" key="CommitChangelistDialog2/45.23.1635.1027@45.23.1635.1027" timestamp="1573933953593" />
-    <state x="218" y="220" key="CommitChangelistDialog2/45.23.1875.1177@45.23.1875.1177" timestamp="1579990731653" />
+    <state x="218" y="220" key="CommitChangelistDialog2/45.23.1875.1177@45.23.1875.1177" timestamp="1579991650306" />
     <state x="477" y="256" key="Vcs.Push.Dialog.v2" timestamp="1579988848499">
       <screen x="45" y="23" width="1875" height="1177" />
     </state>
