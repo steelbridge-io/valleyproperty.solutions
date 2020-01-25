@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Menu.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,14 +143,7 @@
       <workItem from="1579842538496" duration="1956000" />
       <workItem from="1579926376803" duration="255000" />
       <workItem from="1579982405640" duration="2273000" />
-      <workItem from="1579987474322" duration="2610000" />
-    </task>
-    <task id="LOCAL-00070" summary="New images">
-      <created>1570856920438</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1570856920438</updated>
+      <workItem from="1579987474322" duration="3315000" />
     </task>
     <task id="LOCAL-00071" summary="New images">
       <created>1570856926785</created>
@@ -490,7 +481,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579988839666</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="Removed Search from navigtion">
+      <created>1579990732513</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1579990732514</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -511,7 +509,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update contact-us.js" />
     <MESSAGE value="Updates to scss, layout, contact page" />
     <MESSAGE value="Updates to handler" />
     <MESSAGE value="Updates to handler email" />
@@ -536,14 +533,15 @@
     <MESSAGE value="Updated Properties We Purchase page." />
     <MESSAGE value="Initial Update. Added markdown files. Added multi-template option." />
     <MESSAGE value="Added projects.md, properties-we-purchase.md, updated whoesaling.md, pageTemplates.js. Renamed projects.js, properties-we-purchase.js, updated wholesaling-og.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added projects.md, properties-we-purchase.md, updated whoesaling.md, pageTemplates.js. Renamed projects.js, properties-we-purchase.js, updated wholesaling-og.js" />
+    <MESSAGE value="Removed Search from navigtion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed Search from navigtion" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="534" y="220" key="CommitChangelistDialog2" timestamp="1579988838159">
+    <state x="218" y="220" key="CommitChangelistDialog2" timestamp="1579990731653">
       <screen x="45" y="23" width="1875" height="1177" />
     </state>
     <state x="471" y="195" key="CommitChangelistDialog2/45.23.1635.1027@45.23.1635.1027" timestamp="1573933953593" />
-    <state x="534" y="220" key="CommitChangelistDialog2/45.23.1875.1177@45.23.1875.1177" timestamp="1579988838159" />
+    <state x="218" y="220" key="CommitChangelistDialog2/45.23.1875.1177@45.23.1875.1177" timestamp="1579990731653" />
     <state x="477" y="256" key="Vcs.Push.Dialog.v2" timestamp="1579988848499">
       <screen x="45" y="23" width="1875" height="1177" />
     </state>
