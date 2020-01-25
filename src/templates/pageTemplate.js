@@ -3,7 +3,8 @@ import { Link, graphql } from "gatsby"
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 import SEO from '../components/seo'
-import wholeSailingGeneric from "../assets/images/wholesalingGeneric.jpg";
+/*import wholeSailingGeneric from "../assets/images/wholesalingGeneric.jpg";*/
+import Img from "gatsby-image"
 
 export default function Template({
                                      data, // this prop will be injected by the GraphQL query below.
@@ -28,8 +29,7 @@ export default function Template({
                         <header className="major landing1">
                             <h1>{frontmatter.title}</h1>
                         </header>
-                        <span className="image main"><img src={wholeSailingGeneric} alt="Valley Property Solutions" /></span>
-                        <h3>{frontmatter.title}</h3>
+                        <span className="image main"><Img fluid={featuredImgFluid} /></span>
                         <div
                             className="blog-post-content"
                             dangerouslySetInnerHTML={{ __html: html }}
@@ -54,6 +54,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
+        subTitle
         seoTitle
         description
         linkto

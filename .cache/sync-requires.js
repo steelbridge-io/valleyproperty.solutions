@@ -5,8 +5,9 @@ const preferDefault = m => m && m.default || m
 
 
 exports.components = {
+  "component---node-modules-gatsby-plugin-offline-app-shell-js": hot(preferDefault(require("/Users/chrisparsons/git/valleyproperty.solutions/node_modules/gatsby-plugin-offline/app-shell.js"))),
   "component---src-templates-page-template-js": hot(preferDefault(require("/Users/chrisparsons/git/valleyproperty.solutions/src/templates/pageTemplate.js"))),
-  "component---cache-dev-404-page-js": hot(preferDefault(require("/Users/chrisparsons/git/valleyproperty.solutions/.cache/dev-404-page.js"))),
+  "component---src-templates-our-services-js": hot(preferDefault(require("/Users/chrisparsons/git/valleyproperty.solutions/src/templates/ourServices.js"))),
   "component---src-pages-404-js": hot(preferDefault(require("/Users/chrisparsons/git/valleyproperty.solutions/src/pages/404.js"))),
   "component---src-pages-about-valley-property-solutions-js": hot(preferDefault(require("/Users/chrisparsons/git/valleyproperty.solutions/src/pages/about-valley-property-solutions.js"))),
   "component---src-pages-common-reasons-for-selling-js": hot(preferDefault(require("/Users/chrisparsons/git/valleyproperty.solutions/src/pages/common-reasons-for-selling.js"))),
@@ -17,10 +18,9 @@ exports.components = {
   "component---src-pages-index-js": hot(preferDefault(require("/Users/chrisparsons/git/valleyproperty.solutions/src/pages/index.js"))),
   "component---src-pages-join-valley-property-solutions-js": hot(preferDefault(require("/Users/chrisparsons/git/valleyproperty.solutions/src/pages/join-valley-property-solutions.js"))),
   "component---src-pages-landing-js": hot(preferDefault(require("/Users/chrisparsons/git/valleyproperty.solutions/src/pages/landing.js"))),
-  "component---src-pages-projects-js": hot(preferDefault(require("/Users/chrisparsons/git/valleyproperty.solutions/src/pages/projects.js"))),
-  "component---src-pages-properties-we-purchase-js": hot(preferDefault(require("/Users/chrisparsons/git/valleyproperty.solutions/src/pages/properties-we-purchase.js"))),
+  "component---src-pages-projects-og-js": hot(preferDefault(require("/Users/chrisparsons/git/valleyproperty.solutions/src/pages/projects-og.js"))),
+  "component---src-pages-properties-we-purchase-og-js": hot(preferDefault(require("/Users/chrisparsons/git/valleyproperty.solutions/src/pages/properties-we-purchase-og.js"))),
   "component---src-pages-wholesale-home-help-services-og-js": hot(preferDefault(require("/Users/chrisparsons/git/valleyproperty.solutions/src/pages/wholesale-home-help-services-og.js"))),
-  "component---src-pages-wholesaling-og-js": hot(preferDefault(require("/Users/chrisparsons/git/valleyproperty.solutions/src/pages/wholesaling-og.js"))),
-  "component---src-templates-our-services-js": hot(preferDefault(require("/Users/chrisparsons/git/valleyproperty.solutions/src/templates/ourServices.js")))
+  "component---src-pages-wholesaling-og-js": hot(preferDefault(require("/Users/chrisparsons/git/valleyproperty.solutions/src/pages/wholesaling-og.js")))
 }
 

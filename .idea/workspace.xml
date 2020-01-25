@@ -1,32 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="Updated Properties We Purchase page.">
-      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-23190ed4ddf91c41add0093d6b8c8dbb.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-401cd7c3bd8dca0a5ec60e942a37eb8a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-8cbbc0936e353ae012fa06ff63e08e5c.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-8d7acb259b957e648d89cbecfbc10796.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-cd6804fc9b24be4b3a856626a71e97b9.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-d94d75900ad680237b734ca57e1c0377.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-sharp/diskstore-a725b5a23ae0fd49daca0d8ad1ec86ba.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/wholeSaling.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markdown/wholesale-home-help-services.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markdown/wholesaling.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/blogTemplate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/ourServices.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/pageTemplate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/api-runner-ssr.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/api-runner-ssr.js" afterDir="false" />
+    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="Initial Update. Added markdown files. Added multi-template option.">
+      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-13df1dab9e9fa60735c8ba66b9bfb100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-4275cb077331a01706dd6d21198796d3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-6572befda8b11e4dd963f791636756b9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-67212440a6169f3e6a925033a0e700f8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-8994958963e4cb462c5cc9e772ab5dda.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-af67c58cd87c0627ad71a88d02ea6634.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-daabac0a0e13b60898b40589866d3244.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-e78c0aacbc818692570ebc9b078e7e6f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-f3119880b2c3fa3f7fabed2626c295b0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-sharp/diskstore-7c2adddbb7fad4ca09413e9364f5b851.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/wholesaling.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/markdown/projects.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/markdown/properties-we-purchase.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-node.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-node.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/landing.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/wholesale-home-help-services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/wholesale-home-help-services-og.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/wholesaling.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/wholesaling-og.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/markdown/wholesaling.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/markdown/wholesaling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/properties-we-purchase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/properties-we-purchase-og.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/wholesaling-og.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/wholesaling-og.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/pageTemplate.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/pageTemplate.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,27 +162,9 @@
       <workItem from="1579484839756" duration="3662000" />
       <workItem from="1579492264195" duration="4594000" />
       <workItem from="1579842538496" duration="1956000" />
-    </task>
-    <task id="LOCAL-00066" summary="Adding images to common-reasons-for-selling.js">
-      <created>1570821131273</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1570821131273</updated>
-    </task>
-    <task id="LOCAL-00067" summary="Adding images to common-reasons-for-selling.js">
-      <created>1570821215702</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1570821215702</updated>
-    </task>
-    <task id="LOCAL-00068" summary="Adding images to common-reasons-for-selling.js">
-      <created>1570821388961</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1570821388961</updated>
+      <workItem from="1579926376803" duration="255000" />
+      <workItem from="1579982405640" duration="2273000" />
+      <workItem from="1579987474322" duration="1113000" />
     </task>
     <task id="LOCAL-00069" summary="Adding images to common-reasons-for-selling.js">
       <created>1570821423118</created>
@@ -509,7 +488,28 @@
       <option name="project" value="LOCAL" />
       <updated>1579499693042</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="Initial Update. Added markdown files. Added multi-template option.">
+      <created>1579926437743</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1579926437743</updated>
+    </task>
+    <task id="LOCAL-00116" summary="Initial Update. Added markdown files. Added multi-template option.">
+      <created>1579926490827</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1579926490827</updated>
+    </task>
+    <task id="LOCAL-00117" summary="Initial Update. Added markdown files. Added multi-template option.">
+      <created>1579926501772</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1579926501772</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,7 +530,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Removed Yay" />
     <MESSAGE value="Added read more, added .lead class" />
     <MESSAGE value="Update contact-us.js" />
     <MESSAGE value="Updates to scss, layout, contact page" />
@@ -555,28 +554,29 @@
     <MESSAGE value="Updated footer email link so it triggered a new message" />
     <MESSAGE value="Correct spelling on projects page." />
     <MESSAGE value="Updated Properties We Purchase page." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Properties We Purchase page." />
+    <MESSAGE value="Initial Update. Added markdown files. Added multi-template option." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Update. Added markdown files. Added multi-template option." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="534" y="220" key="CommitChangelistDialog2" timestamp="1579926475294">
+    <state x="534" y="220" key="CommitChangelistDialog2" timestamp="1579926619865">
       <screen x="45" y="23" width="1875" height="1177" />
     </state>
     <state x="471" y="195" key="CommitChangelistDialog2/45.23.1635.1027@45.23.1635.1027" timestamp="1573933953593" />
-    <state x="534" y="220" key="CommitChangelistDialog2/45.23.1875.1177@45.23.1875.1177" timestamp="1579926475294" />
-    <state x="477" y="256" key="Vcs.Push.Dialog.v2" timestamp="1579498990647">
+    <state x="534" y="220" key="CommitChangelistDialog2/45.23.1875.1177@45.23.1875.1177" timestamp="1579926619865" />
+    <state x="477" y="256" key="Vcs.Push.Dialog.v2" timestamp="1579926524093">
       <screen x="45" y="23" width="1875" height="1177" />
     </state>
     <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1573933973605" />
-    <state x="477" y="256" key="Vcs.Push.Dialog.v2/45.23.1875.1177@45.23.1875.1177" timestamp="1579498990647" />
-    <state x="610" y="420" key="com.intellij.ide.util.TipDialog" timestamp="1579926377455">
+    <state x="477" y="256" key="Vcs.Push.Dialog.v2/45.23.1875.1177@45.23.1875.1177" timestamp="1579926524093" />
+    <state x="610" y="420" key="com.intellij.ide.util.TipDialog" timestamp="1579987474874">
       <screen x="45" y="23" width="1875" height="1177" />
     </state>
     <state x="538" y="369" key="com.intellij.ide.util.TipDialog/45.23.1635.1027@45.23.1635.1027" timestamp="1573856903869" />
-    <state x="610" y="420" key="com.intellij.ide.util.TipDialog/45.23.1875.1177@45.23.1875.1177" timestamp="1579926377455" />
-    <state x="671" y="522" width="837" height="550" key="find.popup" timestamp="1579844196128">
+    <state x="610" y="420" key="com.intellij.ide.util.TipDialog/45.23.1875.1177@45.23.1875.1177" timestamp="1579987474874" />
+    <state x="671" y="522" width="837" height="550" key="find.popup" timestamp="1579987553888">
       <screen x="45" y="23" width="1875" height="1177" />
     </state>
-    <state x="671" y="522" width="837" height="550" key="find.popup/45.23.1875.1177@45.23.1875.1177" timestamp="1579844196128" />
+    <state x="671" y="522" width="837" height="550" key="find.popup/45.23.1875.1177@45.23.1875.1177" timestamp="1579987553888" />
     <state x="620" y="194" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1571458469968">
       <screen x="45" y="23" width="1635" height="1027" />
     </state>
