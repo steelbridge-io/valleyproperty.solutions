@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="" />
+    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/markdown/commonReasonsforSelling.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/commonReasonsforSelling.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,13 +146,6 @@
       <workItem from="1579926376803" duration="255000" />
       <workItem from="1579982405640" duration="2273000" />
       <workItem from="1579987474322" duration="6336000" />
-    </task>
-    <task id="LOCAL-00073" summary="Added images">
-      <created>1570942289421</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1570942289421</updated>
     </task>
     <task id="LOCAL-00074" summary="Added images">
       <created>1570942303672</created>
@@ -486,7 +483,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580168844601</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="Added contactUs.md">
+      <created>1580168880269</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1580168880269</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -535,16 +539,16 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added contactUs.md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1080" y="-249" key="CommitChangelistDialog2" timestamp="1580168836658">
+    <state x="-1080" y="-249" key="CommitChangelistDialog2" timestamp="1580168879873">
       <screen x="-1080" y="-567" width="1080" height="1897" />
     </state>
-    <state x="-1080" y="-249" key="CommitChangelistDialog2/-1080.-567.1080.1897/0.23.1920.1010@-1080.-567.1080.1897" timestamp="1580168836658" />
+    <state x="-1080" y="-249" key="CommitChangelistDialog2/-1080.-567.1080.1897/0.23.1920.1010@-1080.-567.1080.1897" timestamp="1580168879873" />
     <state x="471" y="195" key="CommitChangelistDialog2/45.23.1635.1027@45.23.1635.1027" timestamp="1573933953593" />
     <state x="218" y="220" key="CommitChangelistDialog2/45.23.1875.1177@45.23.1875.1177" timestamp="1579994821183" />
-    <state x="-831" y="-191" key="Vcs.Push.Dialog.v2" timestamp="1580168863916">
+    <state x="-831" y="-191" key="Vcs.Push.Dialog.v2" timestamp="1580168885325">
       <screen x="-1080" y="-567" width="1080" height="1897" />
     </state>
-    <state x="-831" y="-191" key="Vcs.Push.Dialog.v2/-1080.-567.1080.1897/0.23.1920.1010@-1080.-567.1080.1897" timestamp="1580168863916" />
+    <state x="-831" y="-191" key="Vcs.Push.Dialog.v2/-1080.-567.1080.1897/0.23.1920.1010@-1080.-567.1080.1897" timestamp="1580168885325" />
     <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1573933973605" />
     <state x="477" y="256" key="Vcs.Push.Dialog.v2/45.23.1875.1177@45.23.1875.1177" timestamp="1579994828578" />
     <state x="610" y="420" key="com.intellij.ide.util.TipDialog" timestamp="1579987474874">
