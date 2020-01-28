@@ -66,18 +66,56 @@ export default function Template({
                         </div>
                     </div>
                 </section>
+                <section>
+                    <Link to="/contact-us" className="image">
+                        <img src={probate} alt="Valley Property Solutions" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header id="weoffercash" className="major landing1">
+                                <h3>{frontmatter.sectionThreeTitle}</h3>
+                            </header>
+                            <p>{frontmatter.sectionThreeContent}</p>
+                            <ul className="actions">
+                                <li><Link to={frontmatter.sectionThreeLink} className="button">Learn more</Link></li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+                <section>
+                    <Link to="/contact-us" className="image">
+                        <img src={pic09} alt="Valley Property Solutions" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header id="wholesailing" className="major landing1">
+                                <h3>{frontmatter.sectionFourTitle}</h3>
+                            </header>
+                            <p>{frontmatter.sectionFourContent}</p>
+                            <ul className="actions">
+                                <li><Link to={frontmatter.sectionFourLink} className="button">Contact Us</Link></li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+                <section>
+                    <Link to="/contact-us" className="image">
+                        <img src={getanoffer} alt="Valley Property Solutions" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header id="getanoffer" className="major landing1">
+                                <h3>{frontmatter.sectionFiveTitle}</h3>
+                            </header>
+                            <p>{frontmatter.sectionFiveContent}</p>
+                            <ul className="actions">
+                                <li><Link to={frontmatter.sectionFiveLink} className="button">Contact Us Here</Link></li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
             </section>
 
-        <div className="blog-post-container">
-            <div className="blog-post">
-                <h1>{frontmatter.title}</h1>
-                <h2>{frontmatter.date}</h2>
-                <div
-                    className="blog-post-content"
-                    dangerouslySetInnerHTML={{ __html: html }}
-                />
-            </div>
-        </div>
         </Layout>
     )
 }
@@ -97,6 +135,15 @@ export const pageQuery = graphql`
         sectionTwoTitle
         sectionTwoContent
         sectionTwoLink
+        sectionThreeTitle
+        sectionThreeLink
+        sectionThreeContent
+        sectionFourTitle
+        sectionFourLink
+        sectionFourContent
+        sectionFiveTitle
+        sectionFiveLink
+        sectionFiveContent
       }
     }
   }
