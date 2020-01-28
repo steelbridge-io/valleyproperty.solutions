@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-15458e2412743b8ebc4656783bb4fe66.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-78fe223809e64767eef526664b584e74.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-8d74ac0aa086e84611957e947ddf3337.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-b159f1de15e3a6d3b68aba6006a6e7df.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-bbefa4e141991e30b4ebaceec95eabda.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-be868e748921b91668bdcf27ba813354.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-d3502136d46af883c3ce5f330f9ab8c8.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-da59cf82e56822460ed2f7b2c5e47635.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.cache/caches/gatsby-transformer-remark/diskstore-f2f4b816cf01d7935ee01e27c8108bf8.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/markdown/about.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/aboutTemplate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/async-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/async-requires.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/redux.state" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux.state" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/sync-requires.js" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" afterDir="false" />
+    <list default="true" id="54eabf17-7067-428e-9f9f-310d5cdb3fa8" name="Default Changelist" comment="Added about.md and associated template.">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/about-valley-property-solutions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about-valley-property-solutions-og.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,21 +145,7 @@
       <workItem from="1579926376803" duration="255000" />
       <workItem from="1579982405640" duration="2273000" />
       <workItem from="1579987474322" duration="6336000" />
-      <workItem from="1580174359409" duration="4731000" />
-    </task>
-    <task id="LOCAL-00075" summary="Added images">
-      <created>1570942353051</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1570942353051</updated>
-    </task>
-    <task id="LOCAL-00076" summary="Adding more images">
-      <created>1571077067891</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1571077067892</updated>
+      <workItem from="1580174359409" duration="5272000" />
     </task>
     <task id="LOCAL-00077" summary="Adding more images">
       <created>1571077073796</created>
@@ -504,7 +476,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580177686079</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="Added about.md and associated template.">
+      <created>1580181196862</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1580181196862</updated>
+    </task>
+    <task id="LOCAL-00125" summary="Added about.md and associated template.">
+      <created>1580181230802</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1580181230802</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,7 +511,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Update" />
     <MESSAGE value="Adding SEO" />
     <MESSAGE value="Remove Public" />
     <MESSAGE value="Added pages" />
@@ -550,21 +535,22 @@
     <MESSAGE value="Removed landing.js" />
     <MESSAGE value="Added contactUs.md" />
     <MESSAGE value="Added commonReasonsforSelling .md, .js" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added commonReasonsforSelling .md, .js" />
+    <MESSAGE value="Added about.md and associated template." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added about.md and associated template." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="218" y="220" key="CommitChangelistDialog2" timestamp="1580181208645">
+    <state x="218" y="220" key="CommitChangelistDialog2" timestamp="1580181468778">
       <screen x="45" y="23" width="1875" height="1177" />
     </state>
     <state x="-1080" y="-249" key="CommitChangelistDialog2/-1080.-567.1080.1897/0.23.1920.1010@-1080.-567.1080.1897" timestamp="1580168879873" />
     <state x="471" y="195" key="CommitChangelistDialog2/45.23.1635.1027@45.23.1635.1027" timestamp="1573933953593" />
-    <state x="218" y="220" key="CommitChangelistDialog2/45.23.1875.1177@45.23.1875.1177" timestamp="1580181208645" />
-    <state x="-831" y="-191" key="Vcs.Push.Dialog.v2" timestamp="1580168885325">
-      <screen x="-1080" y="-567" width="1080" height="1897" />
+    <state x="218" y="220" key="CommitChangelistDialog2/45.23.1875.1177@45.23.1875.1177" timestamp="1580181468778" />
+    <state x="477" y="256" key="Vcs.Push.Dialog.v2" timestamp="1580181238651">
+      <screen x="45" y="23" width="1875" height="1177" />
     </state>
     <state x="-831" y="-191" key="Vcs.Push.Dialog.v2/-1080.-567.1080.1897/0.23.1920.1010@-1080.-567.1080.1897" timestamp="1580168885325" />
     <state x="422" y="226" key="Vcs.Push.Dialog.v2/45.23.1635.1027@45.23.1635.1027" timestamp="1573933973605" />
-    <state x="477" y="256" key="Vcs.Push.Dialog.v2/45.23.1875.1177@45.23.1875.1177" timestamp="1579994828578" />
+    <state x="477" y="256" key="Vcs.Push.Dialog.v2/45.23.1875.1177@45.23.1875.1177" timestamp="1580181238651" />
     <state x="610" y="420" key="com.intellij.ide.util.TipDialog" timestamp="1579987474874">
       <screen x="45" y="23" width="1875" height="1177" />
     </state>

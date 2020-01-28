@@ -1,6 +1,5 @@
 # Project dependencies
 /public/*
-/node_modules/*
 yarn-error.log
 yarn.lock
 # Build directory
